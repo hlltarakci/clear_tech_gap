@@ -2,7 +2,7 @@
 
 # Part 1
 
-- [ ] [Computer Netwroking, Udacity](https://www.udacity.com/course/computer-networking--ud436)
+- [ ] [Computer Networking, Udacity](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [CS75 (Summer 2012) Lecture 0 HTTP Harvard Web Development David Malan](https://www.youtube.com/watch?v=8KuO4r5CHjM) 
 - [ ] [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)
 - [ ] [HTTP fundamentals, Pluralsight](https://app.pluralsight.com/library/courses/xhttp-fund/table-of-contents)
