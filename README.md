@@ -21,6 +21,9 @@
 - [ ] EPI
 - [ ] https://www.youtube.com/lifeatgoogle
 - [ ] https://www.youtube.com/user/GoogleDevelopers
+- [ ] https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
+- [ ] https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
+- [ ] https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
 
 # Part 3
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
@@ -39,5 +42,6 @@
 - [ ] https://leetcode.com/explore/learn/card/linked-list/
 - [ ] https://leetcode.com/explore/learn/card/queue-stack/
 - [ ] https://leetcode.com/explore/learn/card/decision-tree/
+- [ ] https://www.interviewbit.com/courses/programming/
 
 
