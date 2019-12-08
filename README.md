@@ -8,6 +8,7 @@
 - [ ] [HTTP fundamentals, Pluralsight](https://app.pluralsight.com/library/courses/xhttp-fund/table-of-contents)
 - [X] [Introduction to Domains](https://www.youtube.com/watch?v=ut_oLhMhJsY)
 - [ ] [Introduction to Active Directory Directory Services Structure in Windows Server 2012](https://www.youtube.com/watch?v=lFwek_OuYZ8)
+- [ ] [Introduction to Active Directory Infrastructure in Windows Server 2012](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
 - [ ] [HiredInTech System Design](https://www.hiredintech.com/system-design)
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
