@@ -8,7 +8,7 @@
 - [ ] [HTTP fundamentals, Pluralsight](https://app.pluralsight.com/library/courses/xhttp-fund/table-of-contents)
 - [X] [Introduction to Domains](https://www.youtube.com/watch?v=ut_oLhMhJsY)
 - [ ] [Introduction to Active Directory Directory Services Structure in Windows Server 2012](https://www.youtube.com/watch?v=lFwek_OuYZ8)
-- [ ] [Introduction to Active Directory Infrastructure in Windows Server 2012](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
+- [X] [Introduction to Active Directory Infrastructure in Windows Server 2012](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
 - [ ] [Personal VPN Services for Security Overview](https://www.youtube.com/watch?v=5e_gsGoNOf4)
 - [ ] [Introduction to DHCP](https://www.youtube.com/watch?v=g7mroO_BLD0)
 - [ ] [Introduction to DNS (Domain Name Services)](https://www.youtube.com/watch?v=VwpP8PUzqLw)
