@@ -68,6 +68,9 @@
 - [ ] https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
 - [ ] https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
 - [ ] https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
+- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0)
+- [ ] [Data Structure and Algorithms Analysis, Udemy](https://www.udemy.com/course/data-structure-and-algorithms-analysis/learn/lecture/6292922?start=0#overview)
+- [ ] [Java Programming Masterclass for Software Developers, Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
 # Part 3
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
