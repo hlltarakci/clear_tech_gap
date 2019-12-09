@@ -57,6 +57,7 @@
 - [ ] [HiredInTech Soft Skills](https://www.hiredintech.com/courses/interview-strategies)
 - [ ] [Tushar Roy - Playlists](https://www.youtube.com/user/tusharroy2525/playlists)
 - [ ] EPI
+- [ ] [Javadoc for Java 8](https://docs.oracle.com/javase/8/docs/api/)
 - [ ] https://www.youtube.com/lifeatgoogle
 - [ ] https://www.youtube.com/user/GoogleDevelopers
 - [ ] https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
