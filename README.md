@@ -20,8 +20,13 @@
 - [ ] [Introduction to Networking](https://www.youtube.com/watch?v=rL8RSFQG8do)
 - [ ] [Introduction to File Sharing](https://www.youtube.com/watch?v=uFQhawnWOrI)
 - [ ] [Introduction to File and Share Permissions in Windows Server 2012](https://www.youtube.com/watch?v=fJHFmt6F0Rc)
+- [ ] [SSH and FTP for Remote Administration](https://www.youtube.com/watch?v=o-W_mDGX1bY)
+- [ ] [FTP (File Transfer Protocol), SFTP, TFTP Explained](https://www.youtube.com/watch?v=tOj8MSEIbfA)
+- [ ] [Introduction to SMTP Relay for Servers](https://www.youtube.com/watch?v=iVJDZRLBWz8)
+- [ ] [SendGrid for SMTP Relay](https://www.youtube.com/watch?v=zGId3nvTcj0)
 - [ ] [Playlist - Cloud Computing - Introduction](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
 - [ ] [TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=EkNq4TrHP_U)
+- [ ] https://www.quora.com/What-is-Minio-What-are-its-typical-use-cases
 - [ ] [How IT Works: Next-Gen Firewall from Palo Alto](https://www.youtube.com/watch?v=a_6YbFLTt7s)
 - [ ] [Comparing Traditional and Next Generation Firewalls](https://www.youtube.com/watch?v=K3pwB8OwJ3c)
 - [ ] [5 Considerations: Sizing Your Next-Gen Firewall (NGFW)](https://www.youtube.com/watch?v=12AqJdlqXzM)
