@@ -18,7 +18,7 @@
 - [ ] [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI)
 - [ ] [Introduction to Servers](https://www.youtube.com/watch?v=CDxaRfwzFrs)
 - [ ] [Introduction to Networking](https://www.youtube.com/watch?v=rL8RSFQG8do)
-- [ ] [Introduction to File Sharing](https://www.youtube.com/watch?v=uFQhawnWOrI)
+- [X] [Introduction to File Sharing](https://www.youtube.com/watch?v=uFQhawnWOrI)
 - [ ] [Introduction to File and Share Permissions in Windows Server 2012](https://www.youtube.com/watch?v=fJHFmt6F0Rc)
 - [ ] [SSH and FTP for Remote Administration](https://www.youtube.com/watch?v=o-W_mDGX1bY)
 - [ ] [FTP (File Transfer Protocol), SFTP, TFTP Explained](https://www.youtube.com/watch?v=tOj8MSEIbfA)
