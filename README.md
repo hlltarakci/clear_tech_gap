@@ -9,7 +9,7 @@
 - [X] [Introduction to Domains](https://www.youtube.com/watch?v=ut_oLhMhJsY)
 - [X] [Introduction to Active Directory Directory Services Structure in Windows Server 2012](https://www.youtube.com/watch?v=lFwek_OuYZ8)
 - [X] [Introduction to Active Directory Infrastructure in Windows Server 2012](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
-- [ ] [Personal VPN Services for Security Overview](https://www.youtube.com/watch?v=5e_gsGoNOf4)
+- [X] [Personal VPN Services for Security Overview](https://www.youtube.com/watch?v=5e_gsGoNOf4)
 - [ ] [Introduction to DHCP](https://www.youtube.com/watch?v=g7mroO_BLD0)
 - [ ] [Basic DHCP Setup on Windows Server 2012](https://www.youtube.com/watch?v=ZfsXh_LSkgE)
 - [X] [Introduction to DNS (Domain Name Services)](https://www.youtube.com/watch?v=VwpP8PUzqLw)
