@@ -26,12 +26,9 @@
 - [ ] [SendGrid for SMTP Relay](https://www.youtube.com/watch?v=zGId3nvTcj0)
 - [ ] [Playlist - Cloud Computing - Introduction](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
 - [ ] [TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=EkNq4TrHP_U)
-- [ ] [Distributed File Server](https://www.youtube.com/watch?v=1r42s6oQdfY)
+- [ ] https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
+- [ ] [Install and Configure DFS Namespaces in Windows Server 2019](https://www.youtube.com/watch?v=gt8iEZ2xnqM)
 - [ ] [Install and Configure DFS on Windows Server 2016](https://www.youtube.com/watch?v=DywlhirOOb4)
-- [ ] [DFS Overview Part 1](https://www.youtube.com/watch?v=zFb0PBA633M)
-- [ ] [DFS Overview Part 2](https://www.youtube.com/watch?v=QvAC0uO7CRQ)
-- [ ] [DFS - What it is and What it's good for](https://www.youtube.com/watch?v=bCVV0kLSMJw)
-- [ ] [Server Basics (13) | DFS Distributed File System](https://www.youtube.com/watch?v=KQ_oW7JlRRU)
 - [ ] [DFS on Server 2016 - Step by Step](https://www.youtube.com/watch?v=yDvbOsJIFpE)
 - [ ] https://www.quora.com/What-is-Minio-What-are-its-typical-use-cases
 - [ ] [How IT Works: Next-Gen Firewall from Palo Alto](https://www.youtube.com/watch?v=a_6YbFLTt7s)
