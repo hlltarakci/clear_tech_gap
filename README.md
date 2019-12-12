@@ -26,7 +26,7 @@
 - [ ] [SendGrid for SMTP Relay](https://www.youtube.com/watch?v=zGId3nvTcj0)
 - [ ] [Playlist - Cloud Computing - Introduction](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
 - [ ] [TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=EkNq4TrHP_U)
-- [ ] https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
+- [X] https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
 - [X] [Install and Configure DFS Namespaces in Windows Server 2019](https://www.youtube.com/watch?v=gt8iEZ2xnqM)
 - [ ] https://www.quora.com/What-is-Minio-What-are-its-typical-use-cases
 - [ ] [How IT Works: Next-Gen Firewall from Palo Alto](https://www.youtube.com/watch?v=a_6YbFLTt7s)
