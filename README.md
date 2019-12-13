@@ -46,6 +46,8 @@
 - [X] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
 - [ ] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=bPyH0W5oDT8)
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works
+- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components
+- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
