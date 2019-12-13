@@ -43,7 +43,7 @@
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [ ] [Gaurav Sen - System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [ ] [InterviewBit - System Design](https://www.interviewbit.com/courses/system-design/)
-- [ ] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
+- [X] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
 - [ ] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
