@@ -44,7 +44,9 @@
 - [ ] [Gaurav Sen - System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [ ] [InterviewBit - System Design](https://www.interviewbit.com/courses/system-design/)
 - [X] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
-- [ ] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
+- [ ] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=bPyH0W5oDT8)
+- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works
+- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
