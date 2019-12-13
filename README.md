@@ -48,18 +48,6 @@
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
-- [ ] [Mongodb the Complete Developers Guide, Udemy](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11758266#overview)
-- [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
-- [ ] [React JS Crash Course - 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
-- [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-- [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [ ] [Spring Boot Tutorial For Beginners](https://www.youtube.com/watch?v=PSP1-2cN7vM)
-- [ ] [Spring Boot Full Course - Learn Spring Boot In 4 Hours | Spring Boot Tutorial For Beginner | Edureka](https://www.youtube.com/watch?v=UfOxcrxhC0s)
-- [ ] [Java Tutorial for Complete Beginners, Udemy](https://www.udemy.com/course/java-tutorial/)
-- [ ] [Java Multithreading, Udemy](https://www.udemy.com/course/java-multithreading/)
-- [ ] [Java 8 Functional Programming: Lambda Expressions Quickly, Udemy](https://www.udemy.com/course/java-lambda-expression-video-tutorial/)
-- [ ] [Java Language Features 1](https://intellipaat.com/blog/interview-question/java-interview-questions/)
-- [ ] [Java Language Features 2](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/)
 
 # Part 2
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
@@ -75,6 +63,18 @@
 - [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0)
 - [ ] [Data Structure and Algorithms Analysis, Udemy](https://www.udemy.com/course/data-structure-and-algorithms-analysis/learn/lecture/6292922?start=0#overview)
 - [ ] [Java Programming Masterclass for Software Developers, Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+- [ ] [Mongodb the Complete Developers Guide, Udemy](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11758266#overview)
+- [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [ ] [React JS Crash Course - 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
+- [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+- [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [ ] [Spring Boot Tutorial For Beginners](https://www.youtube.com/watch?v=PSP1-2cN7vM)
+- [ ] [Spring Boot Full Course - Learn Spring Boot In 4 Hours | Spring Boot Tutorial For Beginner | Edureka](https://www.youtube.com/watch?v=UfOxcrxhC0s)
+- [ ] [Java Tutorial for Complete Beginners, Udemy](https://www.udemy.com/course/java-tutorial/)
+- [ ] [Java Multithreading, Udemy](https://www.udemy.com/course/java-multithreading/)
+- [ ] [Java 8 Functional Programming: Lambda Expressions Quickly, Udemy](https://www.udemy.com/course/java-lambda-expression-video-tutorial/)
+- [ ] [Java Language Features 1](https://intellipaat.com/blog/interview-question/java-interview-questions/)
+- [ ] [Java Language Features 2](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/)
 
 # Part 3
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
