@@ -56,6 +56,7 @@
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
+- [X] http://software77.net/cidr-101.html
 
 # Part 2
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
