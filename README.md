@@ -50,6 +50,9 @@
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
+- [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
+- [ ] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
+- [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
 
