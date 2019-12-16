@@ -28,6 +28,9 @@
 - [ ] [TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=EkNq4TrHP_U)
 - [X] https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
 - [X] [Install and Configure DFS Namespaces in Windows Server 2019](https://www.youtube.com/watch?v=gt8iEZ2xnqM)
+- [ ] [MicroNugget: What is BGP and BGP Configuration Explained | CBT Nuggets](https://www.youtube.com/watch?v=z8INzy9E628)
+- [ ] [BGP Overview](https://www.youtube.com/watch?v=_Z29ZzKeZHc)
+- [ ] [What is the border gateway protocol (BGP)?](https://www.youtube.com/watch?v=_aLmzq-23pE)
 - [ ] https://www.quora.com/What-is-Minio-What-are-its-typical-use-cases
 - [ ] [How IT Works: Next-Gen Firewall from Palo Alto](https://www.youtube.com/watch?v=a_6YbFLTt7s)
 - [ ] [Comparing Traditional and Next Generation Firewalls](https://www.youtube.com/watch?v=K3pwB8OwJ3c)
