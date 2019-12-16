@@ -34,6 +34,7 @@
 - [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-1-BGP-Routing-for-Azure-VPN-Gateways
 - [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-2-Demo
 - [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-3-Configure-BGP-on-Azure-VPN-Gateways-via-PowerShell
+- [ ] [Tutorial what is the internet icmp](https://www.youtube.com/watch?v=-SdDISOPD8M)
 - [ ] https://www.quora.com/What-is-Minio-What-are-its-typical-use-cases
 - [ ] [How IT Works: Next-Gen Firewall from Palo Alto](https://www.youtube.com/watch?v=a_6YbFLTt7s)
 - [ ] [Comparing Traditional and Next Generation Firewalls](https://www.youtube.com/watch?v=K3pwB8OwJ3c)
