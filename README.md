@@ -30,7 +30,7 @@
 - [X] [Install and Configure DFS Namespaces in Windows Server 2019](https://www.youtube.com/watch?v=gt8iEZ2xnqM)
 - [ ] [MicroNugget: What is BGP and BGP Configuration Explained | CBT Nuggets](https://www.youtube.com/watch?v=z8INzy9E628)
 - [ ] [BGP Overview](https://www.youtube.com/watch?v=_Z29ZzKeZHc)
-- [ ] [What is the border gateway protocol (BGP)?](https://www.youtube.com/watch?v=_aLmzq-23pE)
+- [X] [What is the border gateway protocol (BGP)?](https://www.youtube.com/watch?v=_aLmzq-23pE)
 - [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-1-BGP-Routing-for-Azure-VPN-Gateways
 - [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-2-Demo
 - [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-3-Configure-BGP-on-Azure-VPN-Gateways-via-PowerShell
