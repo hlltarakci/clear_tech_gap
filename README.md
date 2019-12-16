@@ -14,7 +14,7 @@
 - [ ] [Basic DHCP Setup on Windows Server 2012](https://www.youtube.com/watch?v=ZfsXh_LSkgE)
 - [X] [Introduction to DNS (Domain Name Services)](https://www.youtube.com/watch?v=VwpP8PUzqLw)
 - [X] [Introduction to Using DNS Server on Windows Server 2012](https://www.youtube.com/watch?v=6c3mwjjr3AQ)
-- [ ] [VPN - Virtual Private Networking](https://www.youtube.com/watch?v=q4P4BjjXghQ)
+- [X] [VPN - Virtual Private Networking](https://www.youtube.com/watch?v=q4P4BjjXghQ)
 - [ ] [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI)
 - [ ] [Introduction to Servers](https://www.youtube.com/watch?v=CDxaRfwzFrs)
 - [ ] [Introduction to Networking](https://www.youtube.com/watch?v=rL8RSFQG8do)
