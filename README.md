@@ -28,12 +28,12 @@
 - [ ] [TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=EkNq4TrHP_U)
 - [X] https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
 - [X] [Install and Configure DFS Namespaces in Windows Server 2019](https://www.youtube.com/watch?v=gt8iEZ2xnqM)
-- [ ] [MicroNugget: What is BGP and BGP Configuration Explained | CBT Nuggets](https://www.youtube.com/watch?v=z8INzy9E628)
-- [ ] [BGP Overview](https://www.youtube.com/watch?v=_Z29ZzKeZHc)
+- [X] [MicroNugget: What is BGP and BGP Configuration Explained | CBT Nuggets](https://www.youtube.com/watch?v=z8INzy9E628)
+- [X] [BGP Overview](https://www.youtube.com/watch?v=_Z29ZzKeZHc)
 - [X] [What is the border gateway protocol (BGP)?](https://www.youtube.com/watch?v=_aLmzq-23pE)
-- [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-1-BGP-Routing-for-Azure-VPN-Gateways
-- [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-2-Demo
-- [ ] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-3-Configure-BGP-on-Azure-VPN-Gateways-via-PowerShell
+- [X] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-1-BGP-Routing-for-Azure-VPN-Gateways
+- [X] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-2-Demo
+- [X] https://channel9.msdn.com/Series/Azure-Hybrid-Network/BGP-for-VPN-Part-3-Configure-BGP-on-Azure-VPN-Gateways-via-PowerShell
 - [X] [Tutorial what is the internet icmp](https://www.youtube.com/watch?v=-SdDISOPD8M)
 - [ ] https://www.quora.com/What-is-Minio-What-are-its-typical-use-cases
 - [ ] [How IT Works: Next-Gen Firewall from Palo Alto](https://www.youtube.com/watch?v=a_6YbFLTt7s)
