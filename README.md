@@ -52,10 +52,10 @@
 - [ ] [InterviewBit - System Design](https://www.interviewbit.com/courses/system-design/)
 - [X] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
 - [X] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=bPyH0W5oDT8)
-- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works
-- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components
-- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
-- [ ] https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview
+- [X] https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works
+- [X] https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components
+- [X] https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
+- [X] https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
