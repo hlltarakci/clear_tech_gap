@@ -62,8 +62,8 @@
 - [ ] https://www.itexams.com/info/AZ-300
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
-- [ ] [How a DNS Server (Domain Name System) works](https://www.youtube.com/watch?v=mpQZVYPuDGU)
-- [ ] [DHCP Explained - Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo)
+- [X] [How a DNS Server (Domain Name System) works](https://www.youtube.com/watch?v=mpQZVYPuDGU)
+- [X] [DHCP Explained - Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
 - [X] http://software77.net/cidr-101.html
 - [ ] [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
