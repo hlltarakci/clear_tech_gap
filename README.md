@@ -51,7 +51,7 @@
 - [ ] [Gaurav Sen - System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [ ] [InterviewBit - System Design](https://www.interviewbit.com/courses/system-design/)
 - [X] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
-- [ ] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=bPyH0W5oDT8)
+- [X] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=bPyH0W5oDT8)
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components
 - [ ] https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
@@ -64,6 +64,7 @@
 - [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
 - [X] http://software77.net/cidr-101.html
+- [ ] [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
 
 # Part 2
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
