@@ -68,7 +68,8 @@
 - [X] http://software77.net/cidr-101.html
 - [ ] [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=TkCSr30UojM)
 - [ ] [Wireshark Tutorial - The Network Analyser](https://www.youtube.com/watch?v=Yo8zGbCbqd0)
-- [ ] [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
+- [ ] https://www.udacity.com/course/introduction-to-operating-systems--ud923
+- [ ] https://www.udacity.com/course/advanced-operating-systems--ud189
 
 # Part 2
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
@@ -86,6 +87,7 @@
 - [ ] [Java Programming Masterclass for Software Developers, Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 - [ ] [Mongodb the Complete Developers Guide, Udemy](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11758266#overview)
 - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [ ] [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
 - [ ] [React JS Crash Course - 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
 - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
