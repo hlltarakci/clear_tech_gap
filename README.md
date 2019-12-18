@@ -61,11 +61,13 @@
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
 - [ ] https://www.itexams.com/info/AZ-300
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
-- [ ] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
+- [X] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [X] [How a DNS Server (Domain Name System) works](https://www.youtube.com/watch?v=mpQZVYPuDGU)
 - [X] [DHCP Explained - Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo)
 - [ ] [System Design Practice](https://github.com/checkcheckzz/system-design-interview)
 - [X] http://software77.net/cidr-101.html
+- [ ] [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=TkCSr30UojM)
+- [ ] [Wireshark Tutorial - The Network Analyser](https://www.youtube.com/watch?v=Yo8zGbCbqd0)
 - [ ] [RabbitMQ Crash Course](https://www.youtube.com/watch?v=Cie5v59mrTg)
 
 # Part 2
