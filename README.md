@@ -52,6 +52,7 @@
 - [ ] [InterviewBit - System Design](https://www.interviewbit.com/courses/system-design/)
 - [X] [Azure Hangout 14: Azure Application Gateway](https://www.youtube.com/watch?v=yiVKUml0mj4)
 - [X] [Understanding and Configuring Application Gateway](https://www.youtube.com/watch?v=bPyH0W5oDT8)
+- [X] https://medium.com/@anujshankar95/configure-and-understand-azure-application-gateway-in-45-minutes-14f4d950988c
 - [X] https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works
 - [X] https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components
 - [X] https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
