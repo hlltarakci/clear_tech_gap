@@ -62,6 +62,7 @@
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying/table-of-contents
+- [ ] https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks/table-of-contents
 - [ ] https://www.itexams.com/info/AZ-300
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
 - [X] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
