@@ -76,6 +76,7 @@
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying/table-of-contents
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks/table-of-contents
 - [ ] https://www.itexams.com/info/AZ-300
+- [ ] https://azurecitadel.com/fundamentals/partner/az300-lab-practice/
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
 - [X] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
 - [X] [How a DNS Server (Domain Name System) works](https://www.youtube.com/watch?v=mpQZVYPuDGU)
