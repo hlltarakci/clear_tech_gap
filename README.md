@@ -75,6 +75,7 @@
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying/table-of-contents
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks/table-of-contents
+- [ ] https://github.com/toddbadams/az300
 - [ ] https://www.itexams.com/info/AZ-300
 - [ ] https://azurecitadel.com/fundamentals/partner/az300-lab-practice/
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
