@@ -60,6 +60,18 @@
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+- [X] https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances
+- [X] https://docs.microsoft.com/en-us/azure/dns/dns-overview
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
+- [X] https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
+- [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying/table-of-contents
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks/table-of-contents
