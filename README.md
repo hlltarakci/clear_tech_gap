@@ -66,6 +66,13 @@
 - [X] https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy
 - [X] https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks
 - [X] https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+- [X] https://docs.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-windows-powershell-sample-create-vm
+- [X] https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview
+- [X] https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/logs-structure
+- [X] https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-portal
+- [ ] https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries
+- [X] https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs
+- [ ] https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
