@@ -65,6 +65,7 @@
 - [X] https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-cli
 - [X] https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy
 - [X] https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks
+- [X] https://docs.microsoft.com/en-us/azure/azure-monitor/overview
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
@@ -79,6 +80,7 @@
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal
+- [ ] https://app.pluralsight.com/library/courses/microsoft-azure-resources-workloads-monitoring-update/table-of-contents
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying/table-of-contents
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks/table-of-contents
