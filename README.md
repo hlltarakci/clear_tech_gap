@@ -60,6 +60,7 @@
 - [ ] [AZ-300 Azure Architecture Technologies Certification Exam, Udemy](https://www.udemy.com/course/70534-azure/)
 - [X] https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 - [X] https://docs.microsoft.com/en-us/azure/virtual-machines/windows/dedicated-hosts
+- [X] https://docs.microsoft.com/en-us/azure/virtual-machines/windows/capture-image-resource
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
