@@ -74,6 +74,7 @@
 - [X] https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-logs
 - [ ] https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics
 - [X] https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy
+- [X] https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
