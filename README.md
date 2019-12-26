@@ -143,6 +143,13 @@
 - [ ] [Java Language Features 1](https://intellipaat.com/blog/interview-question/java-interview-questions/)
 - [ ] [Java Language Features 2](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/)
 
+### Javadoc - Java 8
+- https://docs.oracle.com/javase/8/docs/api/
+- https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+
 # Part: Coding Exercises
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
