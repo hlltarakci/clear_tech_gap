@@ -151,6 +151,7 @@
 - https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/List.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
 
