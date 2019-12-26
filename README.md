@@ -170,4 +170,6 @@
 - [ ] Leetcode Clear Code Book
 - [ ] https://www.interviewbit.com/courses/programming/
 
-
+## My Solutions
+- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
+- https://github.com/hlltarakci/leetcode_practices
