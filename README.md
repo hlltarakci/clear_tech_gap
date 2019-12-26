@@ -149,6 +149,8 @@
 - https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
 - https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
 - https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
 
 # Part: Coding Exercises
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
