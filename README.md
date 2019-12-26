@@ -1,6 +1,6 @@
 # Clear Tech Gap & Remember Stuff
 
-# Part 1
+# Part: System Design & Cloud & OS & Network etc..
 
 - [ ] [Computer Networking, Udacity](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [CS75 (Summer 2012) Lecture 0 HTTP Harvard Web Development David Malan](https://www.youtube.com/watch?v=8KuO4r5CHjM) 
@@ -108,7 +108,7 @@
 - [ ] https://www.udacity.com/course/advanced-operating-systems--ud189
 - [ ] [IIS (Internet information services) Learn Windows Web Server IIS in 30 Minutes](https://www.youtube.com/watch?v=1VdxPWwtISA)
 
-# Part 2
+# Part: Data Structures & Algorithm & PLs & Tech etc.
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
 - [ ] [HiredInTech Soft Skills](https://www.hiredintech.com/courses/interview-strategies)
 - [ ] [Tushar Roy - Playlists](https://www.youtube.com/user/tusharroy2525/playlists)
@@ -143,7 +143,7 @@
 - [ ] [Java Language Features 1](https://intellipaat.com/blog/interview-question/java-interview-questions/)
 - [ ] [Java Language Features 2](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/)
 
-# Part 3
+# Part: Coding Exercises
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
