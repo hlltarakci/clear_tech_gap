@@ -168,7 +168,7 @@
 - [ ] https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
 - [ ] https://leetcode.com/explore/learn/card/trie/
 - [ ] https://leetcode.com/explore/learn/card/hash-table/
-- [ ] https://leetcode.com/explore/learn/card/array-and-string/
+- [X] https://leetcode.com/explore/learn/card/array-and-string/
 - [ ] https://leetcode.com/explore/learn/card/linked-list/
 - [ ] https://leetcode.com/explore/learn/card/queue-stack/
 - [ ] https://leetcode.com/explore/learn/card/decision-tree/
