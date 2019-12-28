@@ -177,4 +177,5 @@
 
 ## My Solutions
 - https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
+- https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
 - https://github.com/hlltarakci/leetcode_practices
