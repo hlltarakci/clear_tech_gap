@@ -27,7 +27,7 @@
 - [ ] [Playlist - Cloud Computing](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
 - [X] [1. Cloud Computing - Introduction](https://www.youtube.com/watch?v=mxKpAxtefbc&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=2&t=0s)
 - [X] [2. Cloud Computing - Abstraction](https://www.youtube.com/watch?v=ctFbluGVDS0&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=2)
-- [ ] [3. Cloud Computing - Server Clusters](https://www.youtube.com/watch?v=z26BDjjoD4A&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=3)
+- [X] [3. Cloud Computing - Server Clusters](https://www.youtube.com/watch?v=z26BDjjoD4A&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=3)
 - [ ] [4. Cloud Computing - Load Balancing](https://www.youtube.com/watch?v=zaLJ6SIHztk&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=4)
 - [ ] [5. Cloud Computing - Public, Private and Hybrid Clouds Introduction](https://www.youtube.com/watch?v=WcCOvVs17E0&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=5)
 - [ ] [6. Cloud Computing - SaaS Introduction (Software As A Service)](https://www.youtube.com/watch?v=nVvxCiPtOQ4&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=6)
