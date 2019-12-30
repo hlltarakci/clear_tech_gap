@@ -169,6 +169,15 @@
 - https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Set.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
 
 # Part: Coding Exercises
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
