@@ -186,10 +186,10 @@
 - [ ] https://leetcode.com/explore/interview/card/google/
 - [X] https://leetcode.com/explore/learn/card/array-and-string/
 - [X] https://leetcode.com/explore/learn/card/linked-list/
+- [ ] https://leetcode.com/explore/learn/card/data-structure-tree/
 - [ ] https://leetcode.com/explore/learn/card/recursion-i/
 - [ ] https://leetcode.com/explore/learn/card/recursion-ii/
 - [ ] https://leetcode.com/explore/learn/card/binary-search/
-- [ ] https://leetcode.com/explore/learn/card/data-structure-tree/
 - [ ] https://leetcode.com/explore/learn/card/n-ary-tree/
 - [ ] https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
 - [ ] https://leetcode.com/explore/learn/card/trie/
@@ -202,4 +202,5 @@
 ## My Solutions
 - https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
 - https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
+- https://github.com/hlltarakci/leetcode_practices_learncard_binarytree
 - https://github.com/hlltarakci/leetcode_practices
