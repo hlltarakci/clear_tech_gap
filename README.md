@@ -178,6 +178,8 @@
 - https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
 
 # Part: Coding Exercises
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
