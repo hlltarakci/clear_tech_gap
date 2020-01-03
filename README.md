@@ -30,7 +30,7 @@
 - [X] [3. Cloud Computing - Server Clusters](https://www.youtube.com/watch?v=z26BDjjoD4A&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=3)
 - [X] [4. Cloud Computing - Load Balancing](https://www.youtube.com/watch?v=zaLJ6SIHztk&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=4)
 - [X] [5. Cloud Computing - Public, Private and Hybrid Clouds Introduction](https://www.youtube.com/watch?v=WcCOvVs17E0&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=5)
-- [ ] [6. Cloud Computing - SaaS Introduction (Software As A Service)](https://www.youtube.com/watch?v=nVvxCiPtOQ4&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=6)
+- [X] [6. Cloud Computing - SaaS Introduction (Software As A Service)](https://www.youtube.com/watch?v=nVvxCiPtOQ4&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=6)
 - [ ] [7. Cloud Computing - PaaS Introduction (Platform as a Service)](https://www.youtube.com/watch?v=U9wiL_4RdYc&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=7)
 - [ ] [8. Cloud Computing - IaaS Introduction (Infrastructure as a Service)](https://www.youtube.com/watch?v=nnLs_EbgHfY&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=8)
 - [ ] [9. Cloud Computing - MaaS Introduction (Metal as a Service)](https://www.youtube.com/watch?v=gFXCM7W4HeA&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=9)
@@ -41,6 +41,7 @@
 - [ ] [14. Cloud Computing - Serverless Architecture Introduction (Cloud Functions)](https://www.youtube.com/watch?v=YaENRUScUqA&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=14)
 - [ ] [15. Cloud Computing - Database Introduction](https://www.youtube.com/watch?v=dtvlCWjFHWI&list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_&index=15)
 - [ ] [TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=EkNq4TrHP_U)
+- [X] https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/
 - [X] https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
 - [X] [Install and Configure DFS Namespaces in Windows Server 2019](https://www.youtube.com/watch?v=gt8iEZ2xnqM)
 - [X] [MicroNugget: What is BGP and BGP Configuration Explained | CBT Nuggets](https://www.youtube.com/watch?v=z8INzy9E628)
