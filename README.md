@@ -111,6 +111,9 @@
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks/table-of-contents
 - [ ] https://github.com/toddbadams/az300
 - [ ] https://www.itexams.com/info/AZ-300
+- [ ] https://www.whizlabs.com/learn/course/microsoft-azure-az-300/#
+- [ ] https://www.measureup.com/microsoft-azure-architect-technologies.html
+- [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/
 - [ ] https://azurecitadel.com/fundamentals/partner/az300-lab-practice/
 - [ ] https://app.pluralsight.com/library/courses/powershell-getting-started
 - [X] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
