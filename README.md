@@ -105,6 +105,19 @@
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal
+
+
+- [ ] https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart
+- [ ] https://docs.microsoft.com/en-us/azure/backup/tutorial-backup-vm-at-scale
+- [ ] https://docs.microsoft.com/en-us/azure/key-vault/basic-concepts
+- [ ] https://docs.microsoft.com/en-us/powershell/module/azurerm.keyvault/set-azurekeyvaultsecret?view=azurermps-6.13.0
+- [ ] https://docs.microsoft.com/en-us/azure/key-vault/quick-create-powershell
+- [ ] https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries
+- [ ] https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app
+- [ ] https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app
+- [ ] https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr
+
+
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-resources-workloads-monitoring-update/table-of-contents
 - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
 - [X] https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying/table-of-contents
