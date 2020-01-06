@@ -106,7 +106,20 @@
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
 - [X] https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal
 
-
+- [ ] [Azure Event Grid Introduction](https://www.youtube.com/watch?v=TujzkSxJzIA)
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/overview
+- [X] https://azure.microsoft.com/en-us/pricing/details/event-grid/
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/concepts
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/event-schema
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/query-event-subscriptions
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/subscription-creation-schema
+- [ ] https://docs.microsoft.com/en-us/azure/event-grid/cli-samples
+- [ ] https://docs.microsoft.com/en-us/azure/event-grid/powershell-samples
+- [ ] https://docs.microsoft.com/en-us/azure/event-grid/template-samples
+- [ ] https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
+- [ ] https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/4-choose-event-grid
+- [ ] https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart
+- [ ] https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app
 - [ ] https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart
 - [ ] https://docs.microsoft.com/en-us/azure/backup/tutorial-backup-vm-at-scale
 - [ ] https://docs.microsoft.com/en-us/azure/key-vault/basic-concepts
