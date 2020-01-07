@@ -113,11 +113,10 @@
 - [X] https://docs.microsoft.com/en-us/azure/event-grid/event-schema
 - [X] https://docs.microsoft.com/en-us/azure/event-grid/query-event-subscriptions
 - [X] https://docs.microsoft.com/en-us/azure/event-grid/subscription-creation-schema
-- [ ] https://docs.microsoft.com/en-us/azure/event-grid/cli-samples
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/cli-samples
 - [ ] https://docs.microsoft.com/en-us/azure/event-grid/powershell-samples
-- [ ] https://docs.microsoft.com/en-us/azure/event-grid/template-samples
-- [ ] https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
-- [ ] https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/4-choose-event-grid
+- [X] https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
+- [X] https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/4-choose-event-grid
 - [ ] https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart
 - [ ] https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app
 - [ ] https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart
