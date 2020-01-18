@@ -73,7 +73,7 @@
 - [X] http://software77.net/cidr-101.html
 - [ ] [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=TkCSr30UojM)
 - [ ] [Wireshark Tutorial - The Network Analyser](https://www.youtube.com/watch?v=Yo8zGbCbqd0)
-- [ ] https://www.udacity.com/course/introduction-to-operating-systems--ud923
+- [ ] https://www.udacity.com/course/introduction-to-operating-systems--ud923 (goal: Understand processes, threads, concurrency issues, locks, mutexes, semaphores, monitors and how they all work. Understand deadlock, livelock and how to avoid them. Know what resources a process needs and a thread needs. Understand how context switching works, how it's initiated by the operating system and underlying hardware. Know a little about scheduling. We are rapidly moving towards multi-core, so know the fundamentals of "modern" concurrency constructs.)
 - [ ] https://www.udacity.com/course/advanced-operating-systems--ud189
 - [X] [IIS (Internet information services) Learn Windows Web Server IIS in 30 Minutes](https://www.youtube.com/watch?v=1VdxPWwtISA)
 
