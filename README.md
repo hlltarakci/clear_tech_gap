@@ -96,6 +96,9 @@
 - [ ] https://stackoverflow.com/questions/6155951/whats-the-difference-between-deadlock-and-livelock
 - [ ] https://www.codejava.net/java-core/concurrency/understanding-deadlock-livelock-and-starvation-with-code-examples-in-java
 - [X] [IIS (Internet information services) Learn Windows Web Server IIS in 30 Minutes](https://www.youtube.com/watch?v=1VdxPWwtISA)
+- [ ] [Google File System - Paper that inspired Hadoop](https://www.youtube.com/watch?v=eRgFNW4QFDc)
+- [ ] [The Google File System (GFS)](https://www.youtube.com/watch?v=_yqwKyacLJ4)
+- [ ] https://www.youtube.com/user/googlecloudplatform/videos
 
 # Part: Data Structures & Algorithm & PLs & Tech etc.
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
