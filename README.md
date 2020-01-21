@@ -23,6 +23,8 @@
 - [ ] [SSH and FTP for Remote Administration](https://www.youtube.com/watch?v=o-W_mDGX1bY)
 - [X] [FTP (File Transfer Protocol), SFTP, TFTP Explained](https://www.youtube.com/watch?v=tOj8MSEIbfA)
 - [ ] [How Secure Shell Works (SSH) - Computerphile](https://www.youtube.com/watch?v=ORcvSkgdA58)
+- [X] [How to build SFTP Server using Bitvise SSH Server software](https://www.youtube.com/watch?v=wdjp5CK1Xqs)
+- [X] [How to setup Bitvise ssh client- Free SSH client Software](https://www.youtube.com/watch?v=BH1L2nKdEkc)
 - [ ] [Introduction to SMTP Relay for Servers](https://www.youtube.com/watch?v=iVJDZRLBWz8)
 - [ ] [SendGrid for SMTP Relay](https://www.youtube.com/watch?v=zGId3nvTcj0)
 - [ ] [Playlist - Cloud Computing](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
