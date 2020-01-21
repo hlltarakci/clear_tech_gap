@@ -75,10 +75,10 @@
 - [ ] [Wireshark Tutorial - The Network Analyser](https://www.youtube.com/watch?v=Yo8zGbCbqd0)
 - [X] https://www.udacity.com/course/introduction-to-operating-systems--ud923 (goal: Understand processes, threads, concurrency issues, locks, mutexes, semaphores, monitors and how they all work. Understand deadlock, livelock and how to avoid them. Know what resources a process needs and a thread needs. Understand how context switching works, how it's initiated by the operating system and underlying hardware. Know a little about scheduling. We are rapidly moving towards multi-core, so know the fundamentals of "modern" concurrency constructs.)
 - [ ] https://www.udacity.com/course/advanced-operating-systems--ud189
-- [ ] https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/
-- [ ] https://www.geeksforgeeks.org/deadlock-starvation-and-livelock/
-- [ ] https://stackoverflow.com/questions/6155951/whats-the-difference-between-deadlock-and-livelock
-- [ ] https://www.codejava.net/java-core/concurrency/understanding-deadlock-livelock-and-starvation-with-code-examples-in-java
+- [X] https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/
+- [X] https://www.geeksforgeeks.org/deadlock-starvation-and-livelock/
+- [X] https://stackoverflow.com/questions/6155951/whats-the-difference-between-deadlock-and-livelock
+- [X] https://www.codejava.net/java-core/concurrency/understanding-deadlock-livelock-and-starvation-with-code-examples-in-java
 - [X] [IIS (Internet information services) Learn Windows Web Server IIS in 30 Minutes](https://www.youtube.com/watch?v=1VdxPWwtISA)
 - [ ] [Google File System - Paper that inspired Hadoop](https://www.youtube.com/watch?v=eRgFNW4QFDc)
 - [ ] [The Google File System (GFS)](https://www.youtube.com/watch?v=_yqwKyacLJ4)
