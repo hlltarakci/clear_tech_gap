@@ -20,7 +20,7 @@
 - [ ] [Introduction to Networking](https://www.youtube.com/watch?v=rL8RSFQG8do)
 - [X] [Introduction to File Sharing](https://www.youtube.com/watch?v=uFQhawnWOrI)
 - [X] [Introduction to File and Share Permissions in Windows Server 2012](https://www.youtube.com/watch?v=fJHFmt6F0Rc)
-- [ ] [SSH and FTP for Remote Administration](https://www.youtube.com/watch?v=o-W_mDGX1bY)
+- [X] [SSH and FTP for Remote Administration](https://www.youtube.com/watch?v=o-W_mDGX1bY)
 - [X] [FTP (File Transfer Protocol), SFTP, TFTP Explained](https://www.youtube.com/watch?v=tOj8MSEIbfA)
 - [ ] [How Secure Shell Works (SSH) - Computerphile](https://www.youtube.com/watch?v=ORcvSkgdA58)
 - [X] [How to build SFTP Server using Bitvise SSH Server software](https://www.youtube.com/watch?v=wdjp5CK1Xqs)
