@@ -1,5 +1,63 @@
 # Clear Tech Gap & Remember Stuff
 
+# High Priority TODO List
+- [ ] [Data Structure and Algorithms Analysis, Udemy](https://www.udemy.com/course/data-structure-and-algorithms-analysis/learn/lecture/6292922?start=0#overview)
+- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0)
+- [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
+- [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+# Part: Coding Exercises
+- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
+- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+- [ ] https://leetcode.com/explore/interview/card/google/
+- [X] https://leetcode.com/explore/learn/card/array-and-string/
+- [X] https://leetcode.com/explore/learn/card/linked-list/
+- [ ] https://leetcode.com/explore/learn/card/data-structure-tree/
+- [ ] https://leetcode.com/explore/learn/card/recursion-i/
+- [ ] https://leetcode.com/explore/learn/card/recursion-ii/
+- [ ] https://leetcode.com/explore/learn/card/binary-search/
+- [ ] https://leetcode.com/explore/learn/card/n-ary-tree/
+- [ ] https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
+- [ ] https://leetcode.com/explore/learn/card/trie/
+- [ ] https://leetcode.com/explore/learn/card/hash-table/
+- [ ] https://leetcode.com/explore/learn/card/queue-stack/
+- [ ] https://leetcode.com/explore/learn/card/decision-tree/
+- [ ] EPI
+- [ ] Leetcode Clear Code Book
+- [ ] https://www.interviewbit.com/courses/programming/
+
+## My Solutions
+- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
+- https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
+- https://github.com/hlltarakci/leetcode_practices_learncard_binarytree
+- https://github.com/hlltarakci/leetcode_practices
+
+### Javadoc - Java 8
+- https://docs.oracle.com/javase/8/docs/api/
+- https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/List.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Set.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
+
+#############################################3
+
 # Part: System Design & Cloud & OS & Network etc..
 - [ ] [AZ 300](https://github.com/hlltarakci/clear_tech_gap/blob/master/AZ300.MD)
 - [ ] [Computer Networking, Udacity](https://www.udacity.com/course/computer-networking--ud436)
@@ -65,8 +123,6 @@
 - [ ] [Securing the Datacenter with a Palo Alto Networks Next-Generation Firewall](https://www.youtube.com/watch?v=ZsAPPUVK-DY)
 - [ ] [Inside a Google data center](https://www.youtube.com/watch?v=XZmGGAbHqa0)
 - [ ] [HiredInTech System Design](https://www.hiredintech.com/system-design)
-- [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
-- [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [ ] [Gaurav Sen - System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [ ] [InterviewBit - System Design](https://www.interviewbit.com/courses/system-design/)
 - [X] [Understanding How DNS Works in Depth](https://www.youtube.com/watch?v=T-eghY-9WdE)
@@ -91,15 +147,12 @@
 - [ ] [HiredInTech Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
 - [ ] [HiredInTech Soft Skills](https://www.hiredintech.com/courses/interview-strategies)
 - [ ] [Tushar Roy - Playlists](https://www.youtube.com/user/tusharroy2525/playlists)
-- [ ] EPI
 - [ ] [Javadoc for Java 8](https://docs.oracle.com/javase/8/docs/api/)
 - [ ] https://www.youtube.com/lifeatgoogle
 - [ ] https://www.youtube.com/user/GoogleDevelopers
 - [ ] https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
 - [ ] https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
 - [ ] https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
-- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0)
-- [ ] [Data Structure and Algorithms Analysis, Udemy](https://www.udemy.com/course/data-structure-and-algorithms-analysis/learn/lecture/6292922?start=0#overview)
 - [ ] [Java Programming Masterclass for Software Developers, Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 - [ ] [Mongodb the Complete Developers Guide, Udemy](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11758266#overview)
 - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
@@ -122,51 +175,4 @@
 - [ ] [Java Language Features 1](https://intellipaat.com/blog/interview-question/java-interview-questions/)
 - [ ] [Java Language Features 2](https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/)
 
-### Javadoc - Java 8
-- https://docs.oracle.com/javase/8/docs/api/
-- https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
-- https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
-- https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
-- https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/List.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Set.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
 
-# Part: Coding Exercises
-- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
-- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
-- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
-- [ ] https://leetcode.com/explore/interview/card/google/
-- [X] https://leetcode.com/explore/learn/card/array-and-string/
-- [X] https://leetcode.com/explore/learn/card/linked-list/
-- [ ] https://leetcode.com/explore/learn/card/data-structure-tree/
-- [ ] https://leetcode.com/explore/learn/card/recursion-i/
-- [ ] https://leetcode.com/explore/learn/card/recursion-ii/
-- [ ] https://leetcode.com/explore/learn/card/binary-search/
-- [ ] https://leetcode.com/explore/learn/card/n-ary-tree/
-- [ ] https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
-- [ ] https://leetcode.com/explore/learn/card/trie/
-- [ ] https://leetcode.com/explore/learn/card/hash-table/
-- [ ] https://leetcode.com/explore/learn/card/queue-stack/
-- [ ] https://leetcode.com/explore/learn/card/decision-tree/
-- [ ] Leetcode Clear Code Book
-- [ ] https://www.interviewbit.com/courses/programming/
-
-## My Solutions
-- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
-- https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
-- https://github.com/hlltarakci/leetcode_practices_learncard_binarytree
-- https://github.com/hlltarakci/leetcode_practices
