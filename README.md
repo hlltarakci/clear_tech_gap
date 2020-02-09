@@ -11,8 +11,8 @@
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 - [ ] https://leetcode.com/explore/interview/card/google/
-- [X] https://leetcode.com/explore/learn/card/array-and-string/
-- [X] https://leetcode.com/explore/learn/card/linked-list/
+- [ ] https://leetcode.com/explore/learn/card/array-and-string/
+- [ ] https://leetcode.com/explore/learn/card/linked-list/
 - [ ] https://leetcode.com/explore/learn/card/data-structure-tree/
 - [ ] https://leetcode.com/explore/learn/card/recursion-i/
 - [ ] https://leetcode.com/explore/learn/card/recursion-ii/
