@@ -4,7 +4,7 @@
 Concentrated list that helps me to cover high priority stuff easily
 
 - [ ] https://codewithmosh.com/ (3 bundle data structures & alg)
-- [ ] https://codewithmosh.com/(3 bundle java)
+- [ ] https://codewithmosh.com/ (3 bundle java)
 - [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0)
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
