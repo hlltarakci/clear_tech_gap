@@ -1,37 +1,28 @@
 # Clear Tech Gap & Remember Stuff
 
 # High Priority TODO List
-- [ ] [Data Structure and Algorithms Analysis, Udemy](https://www.udemy.com/course/data-structure-and-algorithms-analysis/learn/lecture/6292922?start=0#overview)
+Concentrated list that helps me to cover high priority stuff easily
+
+- [ ] https://codewithmosh.com/ (3 bundle data structures & alg)
+- [ ] https://codewithmosh.com/(3 bundle java)
 - [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0)
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
-# Part: Coding Exercises
+## Part: Coding Exercises
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 - [ ] https://leetcode.com/explore/interview/card/google/
-- [ ] https://leetcode.com/explore/learn/card/array-and-string/
-- [ ] https://leetcode.com/explore/learn/card/linked-list/
-- [ ] https://leetcode.com/explore/learn/card/data-structure-tree/
-- [ ] https://leetcode.com/explore/learn/card/recursion-i/
-- [ ] https://leetcode.com/explore/learn/card/recursion-ii/
-- [ ] https://leetcode.com/explore/learn/card/binary-search/
-- [ ] https://leetcode.com/explore/learn/card/n-ary-tree/
-- [ ] https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
-- [ ] https://leetcode.com/explore/learn/card/trie/
-- [ ] https://leetcode.com/explore/learn/card/hash-table/
-- [ ] https://leetcode.com/explore/learn/card/queue-stack/
-- [ ] https://leetcode.com/explore/learn/card/decision-tree/
 - [ ] EPI
 - [ ] Leetcode Clear Code Book
-- [ ] https://www.interviewbit.com/courses/programming/
 
-## My Solutions
+### My Solutions
+- https://github.com/hlltarakci/leetcode_practices_collection_easy
 - https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
 - https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
 - https://github.com/hlltarakci/leetcode_practices_learncard_binarytree
-- https://github.com/hlltarakci/leetcode_practices
+- https://github.com/hlltarakci/leetcode_practices_random
 
 ### Javadoc - Java 8
 - https://docs.oracle.com/javase/8/docs/api/
@@ -56,7 +47,9 @@
 - https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
 
-#############################################3
+---
+
+##########################################################################################
 
 # Part: System Design & Cloud & OS & Network etc..
 - [ ] [AZ 300](https://github.com/hlltarakci/clear_tech_gap/blob/master/AZ300.MD)
