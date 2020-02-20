@@ -3,10 +3,10 @@
 # High Priority TODO List
 Concentrated list that helps me to cover high priority stuff easily
 
-- [ ] https://codewithmosh.com/ (3 bundle data structures & alg) -- (2of3 done)
+- [ ] https://codewithmosh.com/ (3 bundle data structures & alg) -- (2 of 3 done)
 - [ ] https://codewithmosh.com/ (3 bundle java)
-- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0) -- (bheavioral part done)
-- [ ] https://www.hiredintech.com/courses/algorithm-design
+- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0) -- (behavioral part done)
+- [ ] Bit manipulations section in https://www.udemy.com/course/break-away-coding-interviews-1/ 
 - [ ] https://www.udemy.com/course/master-the-art-of-dynamic-programming -- in progress
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
@@ -16,7 +16,6 @@ Concentrated list that helps me to cover high priority stuff easily
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 - [ ] https://leetcode.com/explore/interview/card/google/
-- [ ] EPI
 - [ ] Leetcode Clear Code Book
 
 ### My Solutions
@@ -54,7 +53,7 @@ Concentrated list that helps me to cover high priority stuff easily
 ##########################################################################################
 
 # Part: System Design & Cloud & OS & Network etc..
-- [ ] [AZ 300](https://github.com/hlltarakci/clear_tech_gap/blob/master/AZ300.MD)
+- [X] [AZ 300](https://github.com/hlltarakci/clear_tech_gap/blob/master/AZ300.MD) -- :) i got the cert already
 - [ ] [Computer Networking, Udacity](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [CS75 (Summer 2012) Lecture 0 HTTP Harvard Web Development David Malan](https://www.youtube.com/watch?v=8KuO4r5CHjM) 
 - [ ] [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)
