@@ -3,11 +3,11 @@
 # High Priority TODO List
 Concentrated list that helps me to cover high priority stuff easily
 
-- [ ] https://codewithmosh.com/ (3 bundle data structures & alg) -- (2 of 3 done)  (optional: https://codewithmosh.com/ (3 bundle java) )
-- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0) -- (behavioral part done)
+- [ ] https://codewithmosh.com/ (3 bundle data structures & alg) -- (2 of 3 done, 3 in progress)  (optional: https://codewithmosh.com/ (3 bundle java) )
+- [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0) -- (behavioral part done + summary ds and alg done)
 - [X] Bit manipulations section in https://www.udemy.com/course/break-away-coding-interviews-1/ 
 - [ ] https://www.udemy.com/course/master-the-art-of-dynamic-programming -- in progress
-- [ ] [guide 1](http://www.codespaghetti.com/multithreading-interview-questions/)
+- [X] [guide 1](http://www.codespaghetti.com/multithreading-interview-questions/)
 - [ ] [guide 2](http://www.codespaghetti.com/interfaces-interview-questions/)
 - [ ] [guide 3](http://www.codespaghetti.com/google-interview-guide/)
 - [ ] [guide 4](http://www.codespaghetti.com/inheritance-interview-questions/)
