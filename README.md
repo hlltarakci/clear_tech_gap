@@ -6,13 +6,13 @@ Concentrated list that helps me to cover high priority stuff easily
 - [ ] https://codewithmosh.com/ (3 bundle data structures & alg) -- (2 of 3 done)
 - [ ] https://codewithmosh.com/ (3 bundle java)
 - [ ] [Software Engineer Interview Unleashed, Udemy](https://www.udemy.com/course/software-engineer-interview-unleashed/learn/lecture/5744284?start=0) -- (behavioral part done)
-- [ ] Bit manipulations section in https://www.udemy.com/course/break-away-coding-interviews-1/ 
+- [X] Bit manipulations section in https://www.udemy.com/course/break-away-coding-interviews-1/ 
 - [ ] https://www.udemy.com/course/master-the-art-of-dynamic-programming -- in progress
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 ## Part: Coding Exercises
-- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-easy/ -- (%90 done)
+- [X] https://leetcode.com/explore/interview/card/top-interview-questions-easy/ -- (%90 done)
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 - [ ] https://leetcode.com/explore/interview/card/google/
