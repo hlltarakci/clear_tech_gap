@@ -52,6 +52,7 @@ Concentrated list that helps me to cover high priority stuff easily
 - https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
 
 ---
 
