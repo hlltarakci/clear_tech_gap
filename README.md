@@ -9,7 +9,7 @@ Concentrated list that helps me to cover high priority stuff easily
 - [ ] https://www.udemy.com/course/master-the-art-of-dynamic-programming -- in progress
 - [X] [guide 1](http://www.codespaghetti.com/multithreading-interview-questions/)
 - [ ] [guide 2](http://www.codespaghetti.com/interfaces-interview-questions/)
-- [ ] [guide 3](http://www.codespaghetti.com/google-interview-guide/)
+- [X] [guide 3](http://www.codespaghetti.com/google-interview-guide/)
 - [ ] [guide 4](http://www.codespaghetti.com/inheritance-interview-questions/)
 - [ ] [guide 5](http://www.codespaghetti.com/java-algorithms-questions/)
 - [ ] https://en.wikipedia.org/wiki/Disjoint-set_data_structure
@@ -17,19 +17,19 @@ Concentrated list that helps me to cover high priority stuff easily
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 ## Part: Coding Exercises
-- [X] https://leetcode.com/explore/interview/card/top-interview-questions-easy/ -- (%90 done)
+- [X] https://leetcode.com/explore/interview/card/top-interview-questions-easy/ -- (%90 done) 
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 - [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 - [ ] https://leetcode.com/explore/interview/card/google/
 - [ ] Leetcode Clear Code Book
 
 ### My Solutions
-- https://github.com/hlltarakci/leetcode_practices_collection_easy
-- https://github.com/hlltarakci/leetcode_practices_collection_medium
-- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
-- https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
-- https://github.com/hlltarakci/leetcode_practices_learncard_binarytree
-- https://github.com/hlltarakci/leetcode_practices_random
+- https://github.com/hlltarakci/leetcode_practices_collection_easy -- i have my solutions, will commit them in repo asap
+- https://github.com/hlltarakci/leetcode_practices_collection_medium -- i have my solutions, will commit them in repo asap
+- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring -- DONE
+- https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist -- DONE
+- https://github.com/hlltarakci/leetcode_practices_learncard_binarytree -- partially DONE
+- https://github.com/hlltarakci/leetcode_practices_random -- partially DONE, since its nature is partial since this is random set
 
 ### Javadoc - Java 8
 - https://docs.oracle.com/javase/8/docs/api/
