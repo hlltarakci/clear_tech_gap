@@ -12,6 +12,7 @@ Concentrated list that helps me to cover high priority stuff easily
 - [ ] [guide 3](http://www.codespaghetti.com/google-interview-guide/)
 - [ ] [guide 4](http://www.codespaghetti.com/inheritance-interview-questions/)
 - [ ] [guide 5](http://www.codespaghetti.com/java-algorithms-questions/)
+- [ ] https://en.wikipedia.org/wiki/Disjoint-set_data_structure
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/qVDnLQ75r5G)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
@@ -53,6 +54,9 @@ Concentrated list that helps me to cover high priority stuff easily
 - https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/TreeSet.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/LinkedHashMap.html
 
 ---
 
