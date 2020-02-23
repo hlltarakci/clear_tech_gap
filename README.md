@@ -18,10 +18,9 @@ Concentrated list that helps me to cover high priority stuff easily
 
 ## Part: Coding Exercises
 - [X] https://leetcode.com/explore/interview/card/top-interview-questions-easy/ -- (%90 done) 
-- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-medium/
-- [ ] https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+- [X] https://leetcode.com/explore/interview/card/top-interview-questions-medium/ -- (advised questions done)
 - [ ] https://leetcode.com/explore/interview/card/google/
-- [ ] Leetcode Clear Code Book
+- [ ] Leetcode Clean Code Book
 
 ### My Solutions
 - https://github.com/hlltarakci/leetcode_practices_collection_easy -- i have my solutions, will commit them in repo asap
