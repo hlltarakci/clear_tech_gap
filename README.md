@@ -1,5 +1,7 @@
 # Clear Tech Gap & Remember Stuff
 
+[ ] released, update the list
+
 # High Priority TODO List
 Concentrated list that helps me to cover high priority stuff easily
 
