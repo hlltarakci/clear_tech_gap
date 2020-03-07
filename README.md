@@ -2,7 +2,7 @@
 
 # PL & Tech & Lib
 Consume codeWithMosh until end of subscription at March 13
-- [ ] Ultimate Java Part 1: Fundamentals - Code with Mosh
+- [X] Ultimate Java Part 1: Fundamentals - Code with Mosh
 - [ ] Ultimate Java Part 2: Object-oriented Programming - Code with Mosh
 - [ ] Ultimate Java Part 3: Advanced Topics - Code with Mosh
 - [ ] The Ultimate Design Patterns: Part 1 - Code with Mosh
