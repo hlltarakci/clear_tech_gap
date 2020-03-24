@@ -9,7 +9,7 @@
 - [ ] Grokking the Object Oriented Design
 - [ ] https://app.pluralsight.com/library/courses/microservices-fundamentals/description
 - [ ] https://app.pluralsight.com/library/courses/microservices-architecture/description
-
+- [ ] https://app.pluralsight.com/library/courses/xhttp-fund/table-of-contents -- a classic!!!
 -----------
 
 # Clear Tech Gap & Remember Stuff
