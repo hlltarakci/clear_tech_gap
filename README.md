@@ -3,13 +3,14 @@
 - [ ] [AZ 300](https://www.udemy.com/course/70534-azure/learn/lecture/17313412#overview)
 - [ ] [AZ 300 Practice Test](https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview)
 - [ ] [AZ 301](https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview)
-- [ ] [DS & Alg](https://www.udemy.com/course/break-away-coding-interviews-1/learn/lecture/8474156#overview)
+- [ ] [DS & Alg](https://www.udemy.com/course/break-away-coding-interviews-1/learn/lecture/8474156#overview) -- cover bit manipulation and some sections
 - [ ] Leetcode Easy Set
 - [ ] Leetcode Medium Set
 - [ ] Grokking the Object Oriented Design
 - [ ] https://app.pluralsight.com/library/courses/microservices-fundamentals/description
 - [ ] https://app.pluralsight.com/library/courses/microservices-architecture/description
 - [ ] https://app.pluralsight.com/library/courses/xhttp-fund/table-of-contents -- a classic!!!
+- [ ] https://app.pluralsight.com/library/courses/java-performance-tuning/table-of-contents
 -----------
 
 # Clear Tech Gap & Remember Stuff
