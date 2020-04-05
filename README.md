@@ -5,4 +5,5 @@
 - [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
+- - [ ] Microsoft Azure Developer: Choosing an Appropriate Compute Solution
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-design-az-301
