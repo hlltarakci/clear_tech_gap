@@ -15,7 +15,10 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign
 
 ## Optional
-- https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
+https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
+- - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
+- - [ ] partially: https://app.pluralsight.com/library/courses/microsoft-azure-multi-factor-authentication-implementing-managing/table-of-contents
+- - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-hybrid-identity-overview/table-of-contents
 
 
 
