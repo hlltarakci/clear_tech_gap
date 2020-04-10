@@ -4,8 +4,8 @@ Exam Link: https://docs.microsoft.com/en-us/learn/certifications/exams/az-301
 
 Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide by topics)
 
+- [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-design-az-301
-
 - [ ] [Exam Prep | AZ-301: Microsoft Azure Architect Design](https://www.youtube.com/watch?v=q0zKXHWRmgo)
 - [ ] https://interactive.linuxacademy.com/diagrams/TheBlueShiftGuide.html
 - [ ] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
@@ -13,12 +13,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 - [ ] https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign
-
-## Optional
-https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
-- - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities/table-of-contents
-- - [ ] partially: https://app.pluralsight.com/library/courses/microsoft-azure-multi-factor-authentication-implementing-managing/table-of-contents
-- - [ ] https://app.pluralsight.com/library/courses/microsoft-azure-hybrid-identity-overview/table-of-contents
+- [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 
 
 
