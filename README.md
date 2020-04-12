@@ -13,6 +13,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 - [ ] https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign
+- [ ] [ Microsoft Azure Architect Technologies - Exam AZ-300  - LinuxAcademy](https://linuxacademy.com/cp/modules/view/id/280)
 
 
 
