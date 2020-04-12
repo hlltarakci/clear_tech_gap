@@ -15,6 +15,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign
 - [ ] [ Microsoft Azure Architect Technologies - Exam AZ-300  - LinuxAcademy](https://linuxacademy.com/cp/modules/view/id/280)
 - [ ] https://www.linkedin.com/learning/paths/prepare-for-microsoft-azure-architect-technologies-certification-az-300
+- [ ] https://www.linkedin.com/learning/exam-tips-microsoft-azure-architect-design-az-301
 
 
 
