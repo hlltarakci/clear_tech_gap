@@ -713,6 +713,29 @@ Returns the number of key-value mappings in this map.
 Collection<V> 	values()
 Returns a Collection view of the values contained in this map.
 
+## [HashSet](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html)
+java.util
+
+boolean 	add(E e)
+Adds the specified element to this set if it is not already present.
+
+void 	clear()
+Removes all of the elements from this set.
+
+Object 	clone()
+Returns a shallow copy of this HashSet instance: the elements themselves are not cloned.
+
+boolean 	contains(Object o)
+Returns true if this set contains the specified element.
+
+boolean 	isEmpty()
+Returns true if this set contains no elements.
+
+boolean 	remove(Object o)
+Removes the specified element from this set if it is present.
+
+int 	size()
+Returns the number of elements in this set (its cardinality).
 
 
 
