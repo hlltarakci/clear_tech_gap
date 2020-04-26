@@ -406,8 +406,42 @@ Returns an array containing all of the elements in this collection.
 <T> T[] 	toArray(T[] a)
 Returns an array containing all of the elements in this collection; the runtime type of the returned array is that of the specified array.
 
+## [Collections](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)
+java.util
 
+static <T> boolean 	addAll(Collection<? super T> c, T... elements)
+Adds all of the specified elements to the specified collection.
 
+static <T> int 	binarySearch(List<? extends Comparable<? super T>> list, T key)
+Searches the specified list for the specified object using the binary search algorithm.
+
+static <T> int 	binarySearch(List<? extends T> list, T key, Comparator<? super T> c)
+Searches the specified list for the specified object using the binary search algorithm.
+
+static <T> void 	copy(List<? super T> dest, List<? extends T> src)
+Copies all of the elements from one list into another.
+
+static void 	reverse(List<?> list)
+Reverses the order of the elements in the specified list.
+
+static void 	rotate(List<?> list, int distance)
+Rotates the elements in the specified list by the specified distance.
+
+static void 	shuffle(List<?> list)
+Randomly permutes the specified list using a default source of randomness.
+
+static void 	shuffle(List<?> list, Random rnd)
+Randomly permute the specified list using the specified source of randomness.
+
+static <T extends Comparable<? super T>>
+void 	sort(List<T> list)
+Sorts the specified list into ascending order, according to the natural ordering of its elements.
+
+static <T> void 	sort(List<T> list, Comparator<? super T> c)
+Sorts the specified list according to the order induced by the specified comparator.
+
+static void 	swap(List<?> list, int i, int j)
+Swaps the elements at the specified positions in the specified list.
 
 
 
