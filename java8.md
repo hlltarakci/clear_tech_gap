@@ -376,6 +376,37 @@ Returns an array containing all of the elements in this list in proper sequence 
 <T> T[] 	toArray(T[] a)
 Returns an array containing all of the elements in this list in proper sequence (from first to last element); the runtime type of the returned array is that of the specified array.
 
+## [Interface: Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
+java.util
+
+boolean 	add(E e)
+Ensures that this collection contains the specified element (optional operation).
+
+boolean 	addAll(Collection<? extends E> c)
+Adds all of the elements in the specified collection to this collection (optional operation).
+
+void 	clear()
+Removes all of the elements from this collection (optional operation).
+
+boolean 	contains(Object o)
+Returns true if this collection contains the specified element.
+
+boolean 	isEmpty()
+Returns true if this collection contains no elements.
+
+boolean 	remove(Object o)
+Removes a single instance of the specified element from this collection, if it is present (optional operation).
+
+int 	size()
+Returns the number of elements in this collection.
+
+Object[] 	toArray()
+Returns an array containing all of the elements in this collection.
+
+<T> T[] 	toArray(T[] a)
+Returns an array containing all of the elements in this collection; the runtime type of the returned array is that of the specified array.
+
+
 
 
 
