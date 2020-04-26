@@ -1,0 +1,26 @@
+### Javadoc - Java 8
+- https://docs.oracle.com/javase/8/docs/api/
+- https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
+- https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/List.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Set.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/TreeSet.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html
+- https://docs.oracle.com/javase/8/docs/api/java/util/LinkedHashMap.html
