@@ -443,6 +443,51 @@ Sorts the specified list according to the order induced by the specified compara
 static void 	swap(List<?> list, int i, int j)
 Swaps the elements at the specified positions in the specified list.
 
+## [Arrays](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
+java.util
+
+static <T> List<T> 	asList(T... a)
+Returns a fixed-size list backed by the specified array.
+
+static int 	binarySearch(byte[] a, byte key)
+Searches the specified array of bytes for the specified value using the binary search algorithm.
+
+static int 	binarySearch(byte[] a, int fromIndex, int toIndex, byte key)
+Searches a range of the specified array of bytes for the specified value using the binary search algorithm.
+
+...
+
+static boolean[] 	copyOf(boolean[] original, int newLength)
+Copies the specified array, truncating or padding with false (if necessary) so the copy has the specified length.
+
+static byte[] 	copyOf(byte[] original, int newLength)
+Copies the specified array, truncating or padding with zeros (if necessary) so the copy has the specified length.
+
+...
+
+static boolean[] 	copyOfRange(boolean[] original, int from, int to)
+Copies the specified range of the specified array into a new array.
+
+static byte[] 	copyOfRange(byte[] original, int from, int to)
+Copies the specified range of the specified array into a new array.
+
+...
+
+static void 	fill(boolean[] a, boolean val)
+Assigns the specified boolean value to each element of the specified array of booleans.
+
+static void 	fill(boolean[] a, int fromIndex, int toIndex, boolean val)
+Assigns the specified boolean value to each element of the specified range of the specified array of booleans.
+
+...
+
+static void 	sort(byte[] a)
+Sorts the specified array into ascending numerical order.
+
+static void 	sort(byte[] a, int fromIndex, int toIndex)
+Sorts the specified range of the array into ascending order.
+
+...
 
 
 
