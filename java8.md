@@ -247,6 +247,65 @@ Converts the character argument to uppercase using case mapping information from
 static Character 	valueOf(char c)
 Returns a Character instance representing the specified char value.
 
+## [Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
+java.lang
+
+static double 	abs(double a)
+Returns the absolute value of a double value.
+
+static float 	abs(float a)
+Returns the absolute value of a float value.
+
+static int 	abs(int a)
+Returns the absolute value of an int value.
+
+static long 	abs(long a)
+Returns the absolute value of a long value.
+
+static double 	ceil(double a)
+Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer.
+
+static double 	floor(double a)
+Returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer.
+
+static double 	max(double a, double b)
+Returns the greater of two double values.
+
+static float 	max(float a, float b)
+Returns the greater of two float values.
+
+static int 	max(int a, int b)
+Returns the greater of two int values.
+
+static long 	max(long a, long b)
+Returns the greater of two long values.
+
+static double 	min(double a, double b)
+Returns the smaller of two double values.
+
+static float 	min(float a, float b)
+Returns the smaller of two float values.
+
+static int 	min(int a, int b)
+Returns the smaller of two int values.
+
+static long 	min(long a, long b)
+Returns the smaller of two long values.
+
+static double 	pow(double a, double b)
+Returns the value of the first argument raised to the power of the second argument.
+
+static double 	random()
+Returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0.
+
+static long 	round(double a)
+Returns the closest long to the argument, with ties rounding to positive infinity.
+
+static int 	round(float a)
+Returns the closest int to the argument, with ties rounding to positive infinity.
+
+static double 	sqrt(double a)
+Returns the correctly rounded positive square root of a double value.
 
 
 
