@@ -193,5 +193,81 @@ Returns a new String that contains a subsequence of characters currently contain
 String 	toString()
 Returns a string representing the data in this sequence.
 
+## [Character](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html)
+java.lang
+
+char 	charValue()
+Returns the value of this Character object.
+
+static int 	compare(char x, char y)
+Compares two char values numerically.
+
+int 	compareTo(Character anotherCharacter)
+Compares two Character objects numerically.
+
+static int 	getNumericValue(char ch)
+Returns the int value that the specified Unicode character represents.
+
+static boolean 	isDigit(char ch)
+Determines if the specified character is a digit.
+
+static boolean 	isLetter(char ch)
+Determines if the specified character is a letter.
+
+static boolean 	isLetterOrDigit(char ch)
+Determines if the specified character is a letter or digit.
+
+static boolean 	isLowerCase(char ch)
+Determines if the specified character is a lowercase character.
+
+static boolean 	isSpaceChar(char ch)
+Determines if the specified character is a Unicode space character.
+
+static boolean 	isUpperCase(char ch)
+Determines if the specified character is an uppercase character.
+
+static boolean 	isWhitespace(char ch)
+Determines if the specified character is white space according to Java.
+
+static char 	reverseBytes(char ch)
+Returns the value obtained by reversing the order of the bytes in the specified char value.
+
+static char 	toLowerCase(char ch)
+Converts the character argument to lowercase using case mapping information from the UnicodeData file.
+
+String 	toString()
+Returns a String object representing this Character's value.
+
+static String 	toString(char c)
+Returns a String object representing the specified char.
+
+static char 	toUpperCase(char ch)
+Converts the character argument to uppercase using case mapping information from the UnicodeData file.
+
+static Character 	valueOf(char c)
+Returns a Character instance representing the specified char value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
