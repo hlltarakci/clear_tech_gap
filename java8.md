@@ -659,7 +659,59 @@ Returns an array containing all of the elements in this list in proper sequence 
 <T> T[] 	toArray(T[] a)
 Returns an array containing all of the elements in this list in proper sequence (from first to last element); the runtime type of the returned array is that of the specified array.
 
+## [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html)
+java.util
 
+void 	clear()
+Removes all of the mappings from this map.
+
+Object 	clone()
+Returns a shallow copy of this HashMap instance: the keys and values themselves are not cloned.
+
+boolean 	containsKey(Object key)
+Returns true if this map contains a mapping for the specified key.
+
+boolean 	containsValue(Object value)
+Returns true if this map maps one or more keys to the specified value.
+
+Set<Map.Entry<K,V>> 	entrySet()
+Returns a Set view of the mappings contained in this map.
+
+V 	get(Object key)
+Returns the value to which the specified key is mapped, or null if this map contains no mapping for the key.
+
+V 	getOrDefault(Object key, V defaultValue)
+Returns the value to which the specified key is mapped, or defaultValue if this map contains no mapping for the key.
+
+boolean 	isEmpty()
+Returns true if this map contains no key-value mappings.
+
+Set<K> 	keySet()
+Returns a Set view of the keys contained in this map.
+
+V 	put(K key, V value)
+Associates the specified value with the specified key in this map.
+
+V 	putIfAbsent(K key, V value)
+If the specified key is not already associated with a value (or is mapped to null) associates it with the given value and returns null, else returns the current value.
+
+V 	remove(Object key)
+Removes the mapping for the specified key from this map if present.
+
+boolean 	remove(Object key, Object value)
+Removes the entry for the specified key only if it is currently mapped to the specified value.
+
+V 	replace(K key, V value)
+Replaces the entry for the specified key only if it is currently mapped to some value.
+
+boolean 	replace(K key, V oldValue, V newValue)
+Replaces the entry for the specified key only if currently mapped to the specified value.
+
+int 	size()
+Returns the number of key-value mappings in this map.
+
+Collection<V> 	values()
+Returns a Collection view of the values contained in this map.
 
 
 
