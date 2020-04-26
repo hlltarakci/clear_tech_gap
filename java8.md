@@ -788,6 +788,41 @@ Returns the number of key-value mappings in this map.
 Collection<V> 	values()
 Returns a Collection view of the values contained in this map.
 
+## [Interface: Set](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html)
+java.util
+
+boolean 	add(E e)
+Adds the specified element to this set if it is not already present (optional operation).
+
+boolean 	addAll(Collection<? extends E> c)
+Adds all of the elements in the specified collection to this set if they're not already present (optional operation).
+
+void 	clear()
+Removes all of the elements from this set (optional operation).
+
+boolean 	contains(Object o)
+Returns true if this set contains the specified element.
+
+boolean 	containsAll(Collection<?> c)
+Returns true if this set contains all of the elements of the specified collection.
+
+boolean 	isEmpty()
+Returns true if this set contains no elements.
+
+boolean 	remove(Object o)
+Removes the specified element from this set if it is present (optional operation).
+
+int 	size()
+Returns the number of elements in this set (its cardinality).
+
+Object[] 	toArray()
+Returns an array containing all of the elements in this set.
+
+<T> T[] 	toArray(T[] a)
+Returns an array containing all of the elements in this set; the runtime type of the returned array is that of the specified array.
+
+
+
 
 
 
