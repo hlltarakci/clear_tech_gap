@@ -14,8 +14,6 @@
 - https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Set.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
-- https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
@@ -23,6 +21,8 @@
 - https://docs.oracle.com/javase/8/docs/api/java/util/TreeSet.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/LinkedHashMap.html
+- ? https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html
+- ? https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html
 
 ## [String](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html)
 java.lang
@@ -821,8 +821,42 @@ Returns an array containing all of the elements in this set.
 <T> T[] 	toArray(T[] a)
 Returns an array containing all of the elements in this set; the runtime type of the returned array is that of the specified array.
 
+## [Stack](https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html)
+java.util
 
+boolean 	empty()
+Tests if this stack is empty.
 
+E 	peek()
+Looks at the object at the top of this stack without removing it from the stack.
+
+E 	pop()
+Removes the object at the top of this stack and returns that object as the value of this function.
+
+E 	push(E item)
+Pushes an item onto the top of this stack.
+
+## [Interface: Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)
+(ArrayDeque, LinkedList, PriorityQueue implements this)
+java.util
+
+boolean 	add(E e)
+Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning true upon success and throwing an IllegalStateException if no space is currently available.
+
+E 	element()
+Retrieves, but does not remove, the head of this queue.
+
+boolean 	offer(E e)
+Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions.
+
+E 	peek()
+Retrieves, but does not remove, the head of this queue, or returns null if this queue is empty.
+
+E 	poll()
+Retrieves and removes the head of this queue, or returns null if this queue is empty.
+
+E 	remove()
+Retrieves and removes the head of this queue.
 
 
 
