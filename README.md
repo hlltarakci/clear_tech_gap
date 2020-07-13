@@ -5,6 +5,7 @@ Exam Link: https://docs.microsoft.com/en-us/learn/certifications/exams/az-301
 Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide by topics)
 
 # Quick Overview Study
+- [ ] [Microsoft Azure Architect Technologies - Exam AZ-300, James Lee](https://linuxacademy.com/cp/modules/view/id/280?redirect_uri=https://app.linuxacademy.com/search?categories=Azure&type=Course&difficulty=Advanced) -- in progress
 - [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 
