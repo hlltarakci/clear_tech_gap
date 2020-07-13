@@ -25,4 +25,11 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 # Notes
 - List existing vnets: az network vnet list --output table
 - Create subnet: az network vnet subnet create -g vnet1rg --vnet-name vnet1 -n subnet2 --address-prefix 10.1.2.0/24
+- Create a NIC: az network nic create -g vnet1rg --vnet-name vnet1 --subnet subnet1 -n nic1
+- Get NIC info: $nic1 = Get-AzureRmNetworkInterface -ResourceGroupName vnet1rg -Name nic1
+- Get public IP info: $pubip = Get-AzureRmPublicIpAddress -ResourceGroupName lab01rg -name pubip01
+- Get NIC IP Config: $nic1.ipconfigurations, $nic1.ipconfigurations[0]
+- Get public IP of NIC IP configuration 0: $nic1.ipconfigurations[0].PublicIPAddress
+- Assign public IP: $nic1.ipconfigurations[0].PublicIPAddress = $pubip
+- Set updated configuration: Set-AzureRmNetworkInterface -NetworkInterface $nic1
 
