@@ -37,4 +37,5 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - Get image SKU: Get-AzureRmVmImageSku -Location australiasoutheast -Publisher canonical -Offer UbuntuServer | Select Skus
 - Get image: Get-AzureRMVMImage -Location australiasoutheast -Publisher canonical -Offer ubuntuserver -Sku 16.04-lts | Select Version
 - Set VM source image: Set-AzureRmVMSourceImage -PublisherName Canonical -Offer UbuntuServer -Skus 16.04-LTS -version latest
-
+- Create storage account: New-AzureRmStorageAccount -ResourceGroupName lab01rg -AccountName lalabsa02 -Location australiaeast -Kind BlobStorage -SkuName Standard_GRS -AccessTier Hot
+- Create storage account: New-AzureRmStorageAccount -ResourceGroupName lab01rg -AccountName lalabsa03 -Location australiaeast -Kind Storage -SkuName Standard_LRS
