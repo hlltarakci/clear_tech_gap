@@ -32,4 +32,9 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - Get public IP of NIC IP configuration 0: $nic1.ipconfigurations[0].PublicIPAddress
 - Assign public IP: $nic1.ipconfigurations[0].PublicIPAddress = $pubip
 - Set updated configuration: Set-AzureRmNetworkInterface -NetworkInterface $nic1
+- Get image publishers: Get-AzureRmVmImagePublisher -location australiasoutheast | select publishername
+- Get image offer: Get-AzureRmVmImageOffer -Location australiasoutheast -publisher canonical | Select Offer
+- Get image SKU: Get-AzureRmVmImageSku -Location australiasoutheast -Publisher canonical -Offer UbuntuServer | Select Skus
+- Get image: Get-AzureRMVMImage -Location australiasoutheast -Publisher canonical -Offer ubuntuserver -Sku 16.04-lts | Select Version
+- Set VM source image: Set-AzureRmVMSourceImage -PublisherName Canonical -Offer UbuntuServer -Skus 16.04-LTS -version latest
 
