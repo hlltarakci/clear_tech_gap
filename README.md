@@ -40,3 +40,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - Create storage account: New-AzureRmStorageAccount -ResourceGroupName lab01rg -AccountName lalabsa02 -Location australiaeast -Kind BlobStorage -SkuName Standard_GRS -AccessTier Hot
 - Create storage account: New-AzureRmStorageAccount -ResourceGroupName lab01rg -AccountName lalabsa03 -Location australiaeast -Kind Storage -SkuName Standard_LRS
 - Configure service endpoint: az network vnet subnet update -g vnet1rg --vnet-name vnet1 -n subnet1 --service-endpoints "Microsoft.Storage"
+- Log queries:
+  * AzureActivity | limit 50
+  * AzureActivity | where OperationName == "Regenerate Storage Account Keys"
+  * AzureActivity | where Caller == "adm.jlee@laaz.onmicrosoft.com"
