@@ -46,3 +46,6 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
   * AzureActivity | where Caller == "adm.jlee@laaz.onmicrosoft.com"
 - Create VNet peer: az network vnet peering create -g vnet1rg -n vnet1-to-vnet3-peer --vnet-name vnet1 --remote-vnet /subscriptions/xx-xx-xx/resourceGroups/vnet3rg/providers/Microsoft.Network/virtualNetworks/vnet3 --allow-vnet-access
 - Create return VNet peer: az network vnet peering create -g vnet3rg -n vnet3-to-vnet1-peer --vnet-name vnet3 --remote-vnet /subscriptions/xx-xx-xx/resourceGroups/vnet1rg/providers/Microsoft.Network/virtualNetworks/vnet1 --allow-vnet-access
+- New resource group: New-AzureRmResourceGroup -name deploytestrg -Location "Australia Southeast"
+- Secure password: $pw = Read-Host "Enter Pass" -AsSecureString
+- New deployment: New-AzureRmResourceGroupDeployment -ResourceGroupName deploytestrg -TemplateUri uri -adminUsername adm-jlee -adminPassword $pw
