@@ -57,3 +57,8 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
   * PolicyType Intial option is for the initial sync
   * PolicyType Delta is for differential sync
 - In staging mode, synchronization will run (both automatically or if you use the command) but will not do an actual export to Azure AD
+- Save our vnet1 information to a variable: $vnet1 = Get-AzureRmVirtualNetwork -ResourceGroupName vnet1rg -Name vnet1
+- Save our GatewaySubnet information to a variable: $gwsubnet = Get-AzureRmVirtualNetworkSubnetConfig -Name "GatewaySubnet" -VirtualNetwork $vnet1
+- Create a public IP for the VNet gateway: $gwIP = New-AzureRmPublicIpAddress -name "ergwip01" -ResourceGroupName $vnet1.ResourceGroupName -Location $vnet1.Location -AllocationMethod Dynamic
+- Create the VNet gateway network config: $gwconfig = New-AzureRmVirtualNetworkGatewayIpConfig -Name "ergw01IpConfig" -SubnetId $gwsubnet.Id -PublicIpAddressId $gwIP.Id
+- Create the VNet gateway: $gw = New-AzureRmVirtualNetworkGateway -Name "ergw01" -ResourceGroupName $vnet1.ResourceGroupName -Location $vnet1.Location -IpConfigurations $gwconfig -GatewayType "ExpressRoute" -GatewaySku Standard
