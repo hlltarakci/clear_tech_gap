@@ -49,3 +49,5 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - New resource group: New-AzureRmResourceGroup -name deploytestrg -Location "Australia Southeast"
 - Secure password: $pw = Read-Host "Enter Pass" -AsSecureString
 - New deployment: New-AzureRmResourceGroupDeployment -ResourceGroupName deploytestrg -TemplateUri uri -adminUsername adm-jlee -adminPassword $pw
+- To create a custom role from our JSON definition: az role definition create --role-definition ./customRole.json
+- We could also assign the role from CLI: az role assignment create --role LAAzureAdmin --assignee username --resource-group rgname
