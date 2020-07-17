@@ -51,3 +51,9 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - New deployment: New-AzureRmResourceGroupDeployment -ResourceGroupName deploytestrg -TemplateUri uri -adminUsername adm-jlee -adminPassword $pw
 - To create a custom role from our JSON definition: az role definition create --role-definition ./customRole.json
 - We could also assign the role from CLI: az role assignment create --role LAAzureAdmin --assignee username --resource-group rgname
+- Failing to use a routable-domain for the user-principal name (UPN) can result in login issues
+- Syncrhonization Service Manager allows management of the connectors and synchronization profiles
+- Synchronization can be triggered using: Start-ADSyncSyncCycle:
+  * PolicyType Intial option is for the initial sync
+  * PolicyType Delta is for differential sync
+- In staging mode, synchronization will run (both automatically or if you use the command) but will not do an actual export to Azure AD
