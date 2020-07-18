@@ -71,4 +71,6 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - Retrieving resource group info: curl -H "Authorization: Bearer <TOKEN>" https://management.azure.com/subscriptions/<SUB>/resourceGroups/<RG>?api-version=2016-09-01
 - Retrieve resource group info: curl -H "Authorization: Bearer <TOKEN>" https://management.azure.com/subscriptions/<SUB>/resourceGroups/1?api-version=2016-09-01
 - Delete resource group: curl -X DELETE https://management.azure.com/subscriptions/<SUB>/resourceGroups/<RG>?api-version=2018-05-01 -H "Authorization: Bearer <TOKEN>
+- Enabling encryption: az vm encryption enable -g vmencrypt -n vmencrypt --disk-encryption-keyvault /subscriptions/c95fdfe4-2593-410e-8901-3de366c89013/resourceGroups/keyvault01org/providers/Microsoft.KeyVault/vaults/laazkv01
+- Showing the VM encryption status: az vm encryption show -g vmencrypt -n vmencrypt
 
