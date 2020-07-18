@@ -62,3 +62,8 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - Create a public IP for the VNet gateway: $gwIP = New-AzureRmPublicIpAddress -name "ergwip01" -ResourceGroupName $vnet1.ResourceGroupName -Location $vnet1.Location -AllocationMethod Dynamic
 - Create the VNet gateway network config: $gwconfig = New-AzureRmVirtualNetworkGatewayIpConfig -Name "ergw01IpConfig" -SubnetId $gwsubnet.Id -PublicIpAddressId $gwIP.Id
 - Create the VNet gateway: $gw = New-AzureRmVirtualNetworkGateway -Name "ergw01" -ResourceGroupName $vnet1.ResourceGroupName -Location $vnet1.Location -IpConfigurations $gwconfig -GatewayType "ExpressRoute" -GatewaySku Standard
+- To build our image: docker build -t hellola-web:v1 .
+- To create the registry: az acr create --resource-group containersrg --name laazreg01 --sku Basic
+- To prepare our image: docker tag hellola-web:v1 laazreg01.azurecr.io/hellola-web:v1
+- To log into our registry: docker login laazreg01.azurecr.io
+- To upload our image: Docker push laazreg01.azurecr.io/hellola-web:v1
