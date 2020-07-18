@@ -67,3 +67,8 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - To prepare our image: docker tag hellola-web:v1 laazreg01.azurecr.io/hellola-web:v1
 - To log into our registry: docker login laazreg01.azurecr.io
 - To upload our image: Docker push laazreg01.azurecr.io/hellola-web:v1
+- Retrieve the token: curl 'http://169.254.169.254/metadata/identity/oauth2/token?api-version=2018-02-01&resource=https://management.azure.com/' -H Metadata:true
+- Retrieving resource group info: curl -H "Authorization: Bearer <TOKEN>" https://management.azure.com/subscriptions/<SUB>/resourceGroups/<RG>?api-version=2016-09-01
+- Retrieve resource group info: curl -H "Authorization: Bearer <TOKEN>" https://management.azure.com/subscriptions/<SUB>/resourceGroups/1?api-version=2016-09-01
+- Delete resource group: curl -X DELETE https://management.azure.com/subscriptions/<SUB>/resourceGroups/<RG>?api-version=2018-05-01 -H "Authorization: Bearer <TOKEN>
+
