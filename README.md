@@ -6,7 +6,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 
 ### Topics
 - [ ] Determine Workload Requirements (10 - 15%)
-- [ ] Design for Identity and security (20 - 25%)
+- [ ] Design for Identity and security (20 - 25%) -- AD is very important for AZ301
 - [ ] Design a Data Platform Solution (15 - 20%)
 - [ ] Design a Business Continuity Strategy (15 - 20%)
 - [ ] Design for Deployment, Migration and Integration (10 - 15%)
