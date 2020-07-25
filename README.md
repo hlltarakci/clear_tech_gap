@@ -14,13 +14,12 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 
 # Quick Overview Study
 - [x] [Microsoft Azure Architect Technologies - Exam AZ-300, James Lee](https://linuxacademy.com/cp/modules/view/id/280?redirect_uri=https://app.linuxacademy.com/search?categories=Azure&type=Course&difficulty=Advanced) -- done mostly
-- [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview -- in progress
+- [ ] [Microsoft Azure Arcitect Design - Exam AZ-301, James Lee](https://linuxacademy.com/cp/modules/view/id/381?redirect_uri=https://app.linuxacademy.com/search?query=az%20301) -- in progress
+- [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 - [ ] https://interactive.linuxacademy.com/diagrams/TheBlueShiftGuide.html
 - [ ] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
 
 ### Microsoft Learn (works in IE)
-- General: https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=solution-architect&source=learn
-- [ ] https://docs.microsoft.com/en-us/learn/paths/manage-identity-and-access/
 
 # More Resources
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
@@ -32,6 +31,8 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] [ Microsoft Azure Architect Technologies - Exam AZ-300  - LinuxAcademy](https://linuxacademy.com/cp/modules/view/id/280)
 - [ ] https://www.linkedin.com/learning/paths/prepare-for-microsoft-azure-architect-technologies-certification-az-300
 - [ ] https://www.linkedin.com/learning/exam-tips-microsoft-azure-architect-design-az-301
+- [ ] General: https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=solution-architect&source=learn
+
 
 # Notes
 - List existing vnets: az network vnet list --output table
