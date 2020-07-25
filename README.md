@@ -4,10 +4,17 @@ Exam Link: https://docs.microsoft.com/en-us/learn/certifications/exams/az-301
 
 Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide by topics)
 
+### Topics
+- [ ] Determine Workload Requirements (10 - 15%)
+- [ ] Design for Identity and security (20 - 25%)
+- [ ] Design a Data Platform Solution (15 - 20%)
+- [ ] Design a Business Continuity Strategy (15 - 20%)
+- [ ] Design for Deployment, Migration and Integration (10 - 15%)
+- [ ] Design an Infrastructure Strategy (15 - 20%)
+
 # Quick Overview Study
 - [x] [Microsoft Azure Architect Technologies - Exam AZ-300, James Lee](https://linuxacademy.com/cp/modules/view/id/280?redirect_uri=https://app.linuxacademy.com/search?categories=Azure&type=Course&difficulty=Advanced) -- done mostly
-- [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview
-- [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
+- [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview -- in progress
 - [ ] https://interactive.linuxacademy.com/diagrams/TheBlueShiftGuide.html
 - [ ] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
 
@@ -16,11 +23,11 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-design-az-301
 - [ ] [Exam Prep | AZ-301: Microsoft Azure Architect Design](https://www.youtube.com/watch?v=q0zKXHWRmgo)
 - [ ] https://www.udemy.com/course/70534-azure/learn/lecture/17313412#overview
+- [ ] https://www.udemy.com/course/az-300-azure-architecture-technologies-practice-test/learn/quiz/4584274/test#overview
 - [ ] https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign
 - [ ] [ Microsoft Azure Architect Technologies - Exam AZ-300  - LinuxAcademy](https://linuxacademy.com/cp/modules/view/id/280)
 - [ ] https://www.linkedin.com/learning/paths/prepare-for-microsoft-azure-architect-technologies-certification-az-300
 - [ ] https://www.linkedin.com/learning/exam-tips-microsoft-azure-architect-design-az-301
-
 
 # Notes
 - List existing vnets: az network vnet list --output table
