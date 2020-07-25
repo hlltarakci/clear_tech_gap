@@ -18,6 +18,10 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] https://interactive.linuxacademy.com/diagrams/TheBlueShiftGuide.html
 - [ ] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
 
+### Microsoft Learn (works in IE)
+- General: https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=solution-architect&source=learn
+- [ ] https://docs.microsoft.com/en-us/learn/paths/manage-identity-and-access/
+
 # More Resources
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300
 - [ ] https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-design-az-301
