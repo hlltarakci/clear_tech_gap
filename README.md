@@ -14,7 +14,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 
 # Quick Overview Study
 - [x] [Microsoft Azure Architect Technologies - Exam AZ-300, James Lee](https://linuxacademy.com/cp/modules/view/id/280?redirect_uri=https://app.linuxacademy.com/search?categories=Azure&type=Course&difficulty=Advanced) -- done mostly
-- [ ] [Microsoft Azure Arcitect Design - Exam AZ-301, James Lee](https://linuxacademy.com/cp/modules/view/id/381?redirect_uri=https://app.linuxacademy.com/search?query=az%20301) -- in progress
+- [x] [Microsoft Azure Arcitect Design - Exam AZ-301, James Lee](https://linuxacademy.com/cp/modules/view/id/381?redirect_uri=https://app.linuxacademy.com/search?query=az%20301) -- done mostly, great course!
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 - [ ] https://interactive.linuxacademy.com/diagrams/TheBlueShiftGuide.html
 - [ ] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
