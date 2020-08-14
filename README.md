@@ -15,6 +15,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 # Quick Overview Study
 - [ ] https://learn.acloud.guru/course/az-301-architect-design/dashboard -- in progress
 - [ ] https://www.skylinesacademy.com/resources -- study guides, section az 301 -- links to related azure documentation
+- [ ] https://www.linkedin.com/learning/exam-tips-microsoft-azure-architect-design-az-301 -- exam tips
 - [x] [Microsoft Azure Architect Technologies - Exam AZ-300, James Lee](https://linuxacademy.com/cp/modules/view/id/280?redirect_uri=https://app.linuxacademy.com/search?categories=Azure&type=Course&difficulty=Advanced) -- done mostly
 - [x] [Microsoft Azure Arcitect Design - Exam AZ-301, James Lee](https://linuxacademy.com/cp/modules/view/id/381?redirect_uri=https://app.linuxacademy.com/search?query=az%20301) -- done mostly, great course!
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
