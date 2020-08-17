@@ -13,7 +13,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [ ] Design an Infrastructure Strategy (15 - 20%)
 
 # Quick Overview Study
-- [ ] https://learn.acloud.guru/course/az-301-architect-design/dashboard -- in progress
+- [x] https://learn.acloud.guru/course/az-301-architect-design/dashboard -- done, great course to polish your knowhow !!!
 - [ ] https://www.skylinesacademy.com/resources -- study guides, section az 301 -- links to related azure documentation
 - [ ] https://www.linkedin.com/learning/exam-tips-microsoft-azure-architect-design-az-301 -- exam tips
 - [ ] https://docs.microsoft.com/en-us/azure/architecture/ -- azure architecture center
