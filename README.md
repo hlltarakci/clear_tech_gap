@@ -1,4 +1,4 @@
-# AZ 301 Study
+# AZ 301 Study => Mission Accomplished :)
 
 Exam Link: https://docs.microsoft.com/en-us/learn/certifications/exams/az-301
 
@@ -8,9 +8,9 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [x] Determine Workload Requirements (10 - 15%)
 - [x] Design for Identity and security (20 - 25%) -- AD is very important for AZ301
 - [x] Design a Data Platform Solution (15 - 20%)
-- [ ] Design a Business Continuity Strategy (15 - 20%)
-- [ ] Design for Deployment, Migration and Integration (10 - 15%)
-- [ ] Design an Infrastructure Strategy (15 - 20%)
+- [x] Design a Business Continuity Strategy (15 - 20%)
+- [x] Design for Deployment, Migration and Integration (10 - 15%)
+- [x] Design an Infrastructure Strategy (15 - 20%)
 
 # Quick Overview Study
 - [x] https://learn.acloud.guru/course/az-301-architect-design/dashboard -- done, great course to polish your knowhow !!!
@@ -21,7 +21,7 @@ Topics: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD (Guide
 - [x] [Microsoft Azure Arcitect Design - Exam AZ-301, James Lee](https://linuxacademy.com/cp/modules/view/id/381?redirect_uri=https://app.linuxacademy.com/search?query=az%20301) -- done mostly, great course!
 - [ ] https://www.udemy.com/course/az301-azure/learn/lecture/16028996#overview
 - [ ] https://interactive.linuxacademy.com/diagrams/TheBlueShiftGuide.html
-- [ ] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
+- [x] https://interactive.linuxacademy.com/diagrams/AzureArchitectDesign.html
 
 ### Microsoft Learn (works in IE)
 
