@@ -8,7 +8,11 @@
 - [ ] More speeches by Rosemary Wang from HashiCorp
 
 # Goal 2: Web Development
-- [ ] https://www.udemy.com/course/the-complete-web-development-bootcamp/ (a bunch of bookmarks: https://www.appbrewery.co/p/web-development-course-resources/) -- in progress
+- [ ] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
+    
+    (a bunch of bookmarks: https://www.appbrewery.co/p/web-development-course-resources/)
+    
+    https://github.com/sabrinaveras/web-development-bootcamp/blob/master/12-Rules-to-Learn-to-Code-eBook-Updated-26.11.18.pdf  
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
