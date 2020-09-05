@@ -14,6 +14,8 @@
     
     https://github.com/sabrinaveras/web-development-bootcamp/blob/master/12-Rules-to-Learn-to-Code-eBook-Updated-26.11.18.pdf  
     
+    https://devdocs.io/
+    
     html
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
