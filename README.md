@@ -8,7 +8,7 @@
 - [ ] More speeches by Rosemary Wang from HashiCorp
 
 # Goal 2: Web Development
-- [ ] [Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka](https://www.youtube.com/watch?v=Q33KBiDriJY) -- in progress
+- [ ] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
