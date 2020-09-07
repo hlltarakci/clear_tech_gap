@@ -7,7 +7,7 @@
 - [ ] [Best Practices of Infrastructure as Code with HashiCorp Terraform](https://www.youtube.com/watch?v=T56lZb7WNLc)
 - [ ] More speeches by Rosemary Wang from HashiCorp
 
-# Goal 2: Web Development
+# Goal 2: Web Development Refresher
 - [ ] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
     
     (a bunch of bookmarks: https://www.appbrewery.co/p/web-development-course-resources/)
