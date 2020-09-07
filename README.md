@@ -16,6 +16,8 @@
     
     https://devdocs.io/
     
+    https://emmet.io/
+    
     html
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
