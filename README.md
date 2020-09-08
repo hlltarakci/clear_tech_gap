@@ -1,13 +1,4 @@
-# Goal 1: Terraform
-- [x] https://learn.hashicorp.com/collections/terraform/azure-get-started  
-- [x] https://app.pluralsight.com/library/courses/terraform-getting-started/table-of-contents
-- [ ] https://app.pluralsight.com/library/courses/terraform-deep-dive/table-of-contents -- in progress
-- [ ] https://app.pluralsight.com/library/courses/implementing-terraform-microsoft-azure/table-of-contents
-- [ ] [Terraform best practices with examples and arguments - Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4)
-- [ ] [Best Practices of Infrastructure as Code with HashiCorp Terraform](https://www.youtube.com/watch?v=T56lZb7WNLc)
-- [ ] More speeches by Rosemary Wang from HashiCorp
-
-# Goal 2: Web Development Refresher
+# Goal 1: Web Development Refresher
 - [ ] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
     
     (a bunch of bookmarks: https://www.appbrewery.co/p/web-development-course-resources/)
@@ -33,6 +24,8 @@
 - [ ] MERN Stack Overview: https://www.youtube.com/watch?v=7CqJlxBYj-M
 - [ ] MongoDB: https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11758266#overview
 - [ ] ExpressJS: https://app.pluralsight.com/library/courses/nodejs-express-web-applications-update/table-of-contents
+
+# Goal 2: Java Refresher
 
 # Goals Accomplished So Far
 - AZ 300 acquired.
