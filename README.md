@@ -13,6 +13,8 @@
     
     https://colorhunt.co/
     
+    http://markusvogl.com/web1/interactive_box_model/css_box_demo.html
+    
     html, css
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
