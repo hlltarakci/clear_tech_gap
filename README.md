@@ -14,6 +14,8 @@
     https://colorhunt.co/
     
     http://markusvogl.com/web1/interactive_box_model/css_box_demo.html
+
+    https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
     
     html, css
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
