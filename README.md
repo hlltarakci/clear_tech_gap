@@ -27,6 +27,8 @@
     
     https://www.dailyui.co/
     
+    https://www.canva.com/
+    
     html, css, bootstrap
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
