@@ -33,6 +33,8 @@
     
     https://github.com/rwaldron/idiomatic.js/
     
+    https://www.youtube.com/watch?v=GtOt7EBNEwQ (randomness)
+    
     html, css, bootstrap, javascript
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
