@@ -37,6 +37,8 @@
     
     https://www.youtube.com/watch?v=GtOt7EBNEwQ (randomness)
     
+    https://api.jquery.com/
+    
     html, css, bootstrap, javascript, jquery
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
