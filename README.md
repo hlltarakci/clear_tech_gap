@@ -41,6 +41,8 @@
     
     https://hyper.is/
     
+    https://www.learnenough.com/command-line-tutorial
+    
     html, css, bootstrap, javascript, jquery
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
