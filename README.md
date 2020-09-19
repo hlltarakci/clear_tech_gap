@@ -43,6 +43,8 @@
     
     https://www.learnenough.com/command-line-tutorial
     
+    https://nodemon.io/
+    
     html, css, bootstrap, javascript, jquery, nodejs, expressjs
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
@@ -56,6 +58,8 @@
 - [ ] ExpressJS: https://app.pluralsight.com/library/courses/nodejs-express-web-applications-update/table-of-contents
 
 # Goal 2: Java Refresher
+
+# Goal 3: Increase Facebook Familiarity
 
 # Goals Accomplished So Far
 - AZ 300 acquired.
