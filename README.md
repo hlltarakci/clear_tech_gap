@@ -47,7 +47,8 @@
     
     https://nodemon.io/
     
-    html, css, bootstrap, javascript, jquery, nodejs, expressjs
+    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git
+- [ ] https://codewithmosh.com/courses -- use one month subscription
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
