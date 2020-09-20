@@ -25,6 +25,8 @@
     
     https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg
     
+    https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe
+    
     https://codepen.io/
     
     https://www.codeply.com/
