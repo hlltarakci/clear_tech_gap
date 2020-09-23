@@ -47,6 +47,8 @@
     
     https://nodemon.io/
     
+    https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
+    
     Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git
 - [ ] https://codewithmosh.com/courses -- use one month subscription
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
