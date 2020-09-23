@@ -49,6 +49,8 @@
     
     https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
     
+    https://www.w3schools.com/cssref/css_selectors.asp
+    
     Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs
 - [ ] https://codewithmosh.com/courses -- use one month subscription
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
