@@ -53,7 +53,9 @@
     
     https://katacoda.com/
     
-    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash
+    https://sqliteonline.com/
+    
+    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql
 - [ ] https://codewithmosh.com/courses -- use one month subscription
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
