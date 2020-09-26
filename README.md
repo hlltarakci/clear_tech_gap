@@ -47,15 +47,15 @@
     
     https://nodemon.io/
     
-    https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
-    
     https://www.w3schools.com/cssref/css_selectors.asp
     
     https://katacoda.com/
     
     https://sqliteonline.com/
     
-    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql
+    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose
+- [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
+- [ ] [System Design Youtube Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [ ] https://codewithmosh.com/courses -- use one month subscription
 - [ ] [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
