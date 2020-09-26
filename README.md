@@ -53,7 +53,7 @@
     
     https://sqliteonline.com/
     
-    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose
+    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose, rest
 - [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
 - [ ] [System Design Youtube Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [ ] https://codewithmosh.com/courses -- use one month subscription
