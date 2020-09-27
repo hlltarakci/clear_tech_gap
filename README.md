@@ -53,6 +53,8 @@
     
     https://sqliteonline.com/
     
+    https://medium.com/backticks-tildes/understanding-method-chaining-in-javascript-647a9004bd4f
+    
     Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose, rest
 - [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
 - [ ] [System Design Youtube Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
