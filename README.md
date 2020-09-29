@@ -63,7 +63,7 @@
     
     https://stackoverflow.com/questions/31354559/using-node-js-require-vs-es6-import-export
     
-    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose, rest, passport, oauth 2.0, reactjs, jsx, babel
+    Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, npm, npx, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose, rest, passport, oauth 2.0, reactjs, jsx, babel
 - [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
 - [ ] [Intro To JavaScript ES6 Programming course](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 - [ ] [System Design Youtube Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
