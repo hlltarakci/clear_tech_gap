@@ -70,6 +70,8 @@
     https://material-ui.com/
     
     Topics mentioned so far: html, css, bootstrap, javascript, jquery, nodejs, npm, npx, expressjs, api, git, ejs, lodash, sql, nosql, mongodb, mongoose, rest, passport, oauth 2.0, reactjs, jsx, babel
+- [ ] https://codewithmosh.com/p/the-ultimate-git-course
+- [ ] https://codewithmosh.com/p/full-stack-javascript-developer-bundle
 - [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
 - [ ] [Intro To JavaScript ES6 Programming course](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 - [ ] [System Design Youtube Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
@@ -86,6 +88,8 @@
 - [ ] ExpressJS: https://app.pluralsight.com/library/courses/nodejs-express-web-applications-update/table-of-contents
 
 # Goal 2: Java Refresher
+- [ ] https://codewithmosh.com/p/the-ultimate-java-mastery-series
+- [ ] https://www.udemy.com/course/break-away-coding-interviews-1/
 
 # Goal 3: Increase Facebook Familiarity
 - [ ] https://www.f8.com/
@@ -93,7 +97,6 @@
 - [ ] [F8 2019](https://www.youtube.com/watch?v=xK0RwubFi-U&list=PLb0IAmt7-GS1fAT0UHQNV2YOcx8CDjrWl)
 - [ ] [F8 2018](https://www.youtube.com/watch?v=ldtuSYqgPLQ&list=PLb0IAmt7-GS0RLjX7uCpbqGOhrKYTJW_8)
 - [ ] https://engineering.fb.com
-
 
 
 # Goals Accomplished So Far
