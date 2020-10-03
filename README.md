@@ -1,5 +1,5 @@
 # Goal 1: Web Development Refresher
-- [ ] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
+- [x] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
     
     (a bunch of bookmarks: https://www.appbrewery.co/p/web-development-course-resources/)
     
