@@ -88,6 +88,13 @@
 # Goal 2: Java Refresher
 
 # Goal 3: Increase Facebook Familiarity
+- [ ] https://www.f8.com/
+- [ ] [Facebook Connect 2020](https://www.youtube.com/watch?v=yAp2ipmJcnk&list=PLb0IAmt7-GS2p9H4LubREWTlgaWhop2U1)
+- [ ] [F8 2019](https://www.youtube.com/watch?v=xK0RwubFi-U&list=PLb0IAmt7-GS1fAT0UHQNV2YOcx8CDjrWl)
+- [ ] [F8 2018](https://www.youtube.com/watch?v=ldtuSYqgPLQ&list=PLb0IAmt7-GS0RLjX7uCpbqGOhrKYTJW_8)
+- [ ] https://engineering.fb.com
+
+
 
 # Goals Accomplished So Far
 - AZ 300 acquired.
