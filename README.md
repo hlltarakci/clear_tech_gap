@@ -73,6 +73,7 @@
 - [ ] https://codewithmosh.com/p/the-ultimate-git-course
 - [ ] https://codewithmosh.com/p/full-stack-javascript-developer-bundle
 - [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
+- [ ] http://marklodato.github.io/visual-git-guide/index-en.html
 - [ ] [Intro To JavaScript ES6 Programming course](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 - [ ] [System Design Youtube Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [ ] https://codewithmosh.com/courses -- use one month subscription
@@ -97,6 +98,8 @@
 - [ ] [F8 2019](https://www.youtube.com/watch?v=xK0RwubFi-U&list=PLb0IAmt7-GS1fAT0UHQNV2YOcx8CDjrWl)
 - [ ] [F8 2018](https://www.youtube.com/watch?v=ldtuSYqgPLQ&list=PLb0IAmt7-GS0RLjX7uCpbqGOhrKYTJW_8)
 - [ ] https://engineering.fb.com
+- [ ] https://www.quora.com/What-should-one-know-before-starting-Facebooks-Engineering-Bootcamp
+- [ ] https://www.quora.com/What-does-the-average-day-at-Facebooks-Engineering-Bootcamp-look-like
 
 
 # Goals Accomplished So Far
