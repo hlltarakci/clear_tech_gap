@@ -76,6 +76,8 @@
     https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
     
     https://prettier.io
+    
+    https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import
 - [ ] https://codewithmosh.com/p/full-stack-javascript-developer-bundle
 - [ ] https://learngitbranching.js.org/?_sm_au_=isHR6nbn99QNpHS5ML8tvK34L00HF
 - [ ] http://marklodato.github.io/visual-git-guide/index-en.html
