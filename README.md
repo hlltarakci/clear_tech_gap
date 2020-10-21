@@ -1,3 +1,7 @@
+# I started at Facebook London, so i am not clearing tech gap from here anymore :)
+
+# DEPRECATED
+
 # Goal 1: Web Development Refresher
 - [x] https://www.udemy.com/course/the-complete-web-development-bootcamp/ -- in progress
     
